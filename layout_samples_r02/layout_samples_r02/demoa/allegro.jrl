@@ -1,0 +1,1975 @@
+\t (00:01:33) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:01:33)     Journal start - Wed Jul 17 12:19:45 2019
+\t (00:01:33)         Host=USER-PC User=user Pid=3920 CPUs=4
+\t (00:01:33) CmdLine= allegro.exe -p .
+\t (00:01:33) 
+\d (00:01:33) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2.brd
+\i (00:01:33) generaledit 
+\i (00:01:36) zoom in 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom in 979.6 -461.5
+\i (00:01:36) trapsize 167
+\i (00:01:38) drag_start grid 1860.9 -100.3
+\i (00:01:38) roam y -16
+\i (00:01:38) roam y -64
+\i (00:01:38) roam y -16
+\i (00:01:38) roam y -32
+\i (00:01:38) roam y -48
+\i (00:01:38) roam y -48
+\i (00:01:38) roam y -32
+\i (00:01:38) roam y -16
+\i (00:01:38) roam y -16
+\i (00:01:38) drag_stop 2115.1 1682.2
+\i (00:01:39) drag_start grid 2054.9 802.6
+\i (00:01:39) drag_stop 2593.3 575.2
+\i (00:01:39) drag_start grid 2182.0 491.6
+\i (00:01:39) drag_stop 2593.3 448.1
+\i (00:01:46) prmed 
+\i (00:01:48) setwindow form.prmedit
+\i (00:01:48) FORM prmedit design  
+\i (00:02:09) FORM prmedit units Millimeter 
+\e (00:02:09) Change may cause round-off; run dbcheck.
+\i (00:02:14) FORM prmedit done  
+\w (00:02:14) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:02:14) setwindow pcb
+\i (00:02:14) trapsize 4247
+\t (00:02:14) Performing DRC...
+\t (00:02:14) Multithreaded DRC update (4 threads).
+\t (00:02:15) No DRC errors detected.
+\i (00:02:15) generaledit 
+\i (00:02:16) drag_start grid 53.5527 2.1237
+\i (00:02:17) drag_stop 64.6808 0.5946
+\i (00:02:17) drag_start grid 56.1860 0.5097
+\i (00:02:17) drag_stop 64.5109 0.0849
+\i (00:02:18) drag_start grid 42.4245 30.1565
+\i (00:02:18) drag_stop -30.2909 -17.7541
+\i (00:02:22) prmed 
+\i (00:02:25) setwindow form.prmedit
+\i (00:02:25) FORM prmedit move_x -100.0000 
+\i (00:02:28) FORM prmedit move_x -100.0000 
+\i (00:02:33) FORM prmedit move_x -100.0000 
+\i (00:02:37) FORM prmedit x -100.0000 
+\i (00:02:38) FORM prmedit y -100.0000 
+\i (00:02:38) FORM prmedit done  
+\i (00:02:38) setwindow pcb
+\i (00:02:38) generaledit 
+\i (00:02:40) drag_start grid 57.5452 3.7377
+\i (00:02:40) drag_stop 61.0281 0.5097
+\i (00:02:40) drag_start grid 58.4796 6.7109
+\i (00:02:40) drag_stop 51.7688 -3.4829
+\i (00:02:41) drag_start grid 51.2591 -2.8033
+\i (00:02:41) drag_stop 51.4290 -0.3398
+\i (00:02:41) drag_start grid 50.2397 21.4069
+\i (00:02:41) roam y 32
+\i (00:02:41) drag_stop -36.9168 -26.7573
+\i (00:02:42) pick grid 58.4796 4.6734
+\t (00:02:42) last pick:  58.4200 5.0800
+\i (00:02:44) grid toggle 
+\i (00:02:44) generaledit 
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 55.1667 -2.6321
+\i (00:02:45) trapsize 8495
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 171.5028 -36.8662
+\i (00:02:45) trapsize 8495
+\i (00:02:46) drag_start grid 57.5028 -8.1538
+\i (00:02:46) drag_stop 105.4134 -3.3967
+\i (00:02:47) drag_start grid 50.7070 30.7523
+\i (00:02:48) drag_stop -21.4987 -15.7991
+\i (00:02:48) prepopup 14.1794 9.5154
+\i (00:02:51) pick grid 22.3344 27.3544
+\t (00:02:51) last pick:  22.8600 27.9400
+\i (00:02:52) drag_start grid 45.4402 30.2426
+\i (00:02:52) drag_stop -21.1589 -13.9302
+\i (00:02:52) drag_start grid 20.8053 16.9908
+\i (00:02:53) drag_stop grid -22.0084 1.1905
+\i (00:02:55) prmed 
+\i (00:02:56) setwindow form.prmedit
+\i (00:02:56) FORM prmedit text  
+\i (00:02:57) FORM prmedit display  
+\i (00:02:58) FORM prmedit design  
+\i (00:03:02) FORM prmedit move_x -50.0000 
+\i (00:03:05) FORM prmedit move_x -50.0000 
+\i (00:03:10) FORM prmedit size A4 
+\i (00:03:13) FORM prmedit move_x -50.0000 
+\i (00:03:16) FORM prmedit size A4 
+\i (00:03:18) FORM prmedit size A4 
+\i (00:03:21) FORM prmedit size A4 
+\i (00:03:27) FORM prmedit size A4 
+\i (00:03:30) FORM prmedit x 0.0000 
+\i (00:03:31) FORM prmedit x 0.0000 
+\i (00:03:31) FORM prmedit x 0.0000 
+\i (00:03:31) FORM prmedit x 0.0000 
+\i (00:03:33) FORM prmedit x 0.0000 
+\i (00:03:39) FORM prmedit size A4 
+\i (00:03:40) FORM prmedit cancel  
+\i (00:03:40) setwindow pcb
+\i (00:03:40) generaledit 
+\i (00:03:53) zoom in 1 
+\i (00:03:53) setwindow pcb
+\i (00:03:53) zoom in 14.3493 1.3604
+\i (00:03:53) trapsize 4247
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 54.4021 16.7360
+\i (00:03:54) trapsize 2124
+\i (00:03:54) zoom in 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom in 53.8499 16.6085
+\i (00:03:54) trapsize 1062
+\i (00:03:54) zoom out 1 
+\i (00:03:54) setwindow pcb
+\i (00:03:54) zoom out 26.6242 12.6797
+\i (00:03:54) trapsize 2124
+\i (00:03:57) drag_start grid -0.9414 13.0195
+\i (00:03:57) roam x -32
+\i (00:03:57) roam x -16
+\i (00:03:57) roam x -16
+\i (00:03:57) drag_stop -4.3817 12.6372
+\i (00:03:58) drag_start grid -2.1730 17.2244
+\i (00:03:58) roam y -16
+\i (00:03:59) roam y -16
+\i (00:03:59) drag_stop -0.8988 26.3775
+\i (00:04:01) add connect 
+\w (00:04:01) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:04:02) Pick first element.
+\i (00:04:02) pick grid 2.3717 22.6823
+\t (00:04:02) last pick:  2.5400 22.8600
+\t (00:04:02) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:02) last pick:  2.5400 22.8600
+\i (00:04:05) pick grid 0.6727 21.2382
+\t (00:04:05) last pick:  0.6350 20.9550
+\t (00:04:05) No DRC errors detected.
+\i (00:04:06) pick grid 0.8851 11.7665
+\t (00:04:06) last pick:  0.6350 12.0650
+\t (00:04:06) No DRC errors detected.
+\i (00:04:07) mouse_pos 1.6071 10.7896
+\i (00:04:08) pick grid 2.2442 10.1950
+\t (00:04:08) last pick:  2.5400 10.1600
+\t (00:04:08) No DRC errors detected.
+\t (00:04:08) Pick first element.
+\i (00:04:09) prepopup 0.5878 13.1681
+\i (00:04:15) pick grid 5.3873 22.5124
+\t (00:04:15) last pick:  5.0800 22.2250
+\t (00:04:15) Pick first element.
+\t (00:04:15) last pick:  5.0800 22.8600
+\t (00:04:15) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:15) last pick:  5.0800 22.8600
+\i (00:04:20) pick grid 6.5341 20.7285
+\t (00:04:20) last pick:  6.3500 20.9550
+\t (00:04:20) No DRC errors detected.
+\i (00:04:22) pick grid 6.3217 11.7665
+\t (00:04:22) last pick:  6.3500 12.0650
+\t (00:04:22) No DRC errors detected.
+\i (00:04:22) mouse_pos 5.4723 11.0020
+\i (00:04:22) pick grid 4.7502 10.2799
+\t (00:04:22) last pick:  4.4450 10.1600
+\t (00:04:22) No DRC errors detected.
+\t (00:04:22) Pick first element.
+\i (00:04:26) pick grid 8.2755 22.7672
+\t (00:04:26) last pick:  8.2550 22.8600
+\t (00:04:26) Pick first element.
+\t (00:04:26) last pick:  7.6200 22.8600
+\t (00:04:26) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:26) last pick:  7.6200 22.8600
+\i (00:04:28) pick grid 8.5729 21.4506
+\t (00:04:28) last pick:  8.8900 21.5900
+\t (00:04:28) No DRC errors detected.
+\i (00:04:29) mouse_pos 8.6578 11.1294
+\i (00:04:30) pick grid 8.6578 11.1294
+\t (00:04:30) last pick:  8.8900 11.4300
+\t (00:04:30) No DRC errors detected.
+\t (00:04:30) Pick first element.
+\i (00:04:31) pick grid 7.8508 10.4073
+\t (00:04:31) last pick:  7.6200 10.1600
+\t (00:04:31) Pick first element.
+\t (00:04:31) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:31) last pick:  7.6200 10.1600
+\i (00:04:31) mouse_pos 7.9782 11.0444
+\i (00:04:31) mouse_pos 9.2949 11.3842
+\i (00:04:32) mouse_pos 9.1675 11.7240
+\i (00:04:32) mouse_pos 8.5304 11.3418
+\i (00:04:34) prepopup 8.1906 10.7471
+\i (00:04:50) oops 
+\t (00:04:50) last pick:  7.6200 10.1600
+\t (00:04:50) Pick first element.
+\i (00:04:51) prepopup 10.4842 12.5310
+\i (00:04:52) oops 
+\t (00:04:52) last pick:  8.8900 11.4300
+\t (00:04:52) Pick first element.
+\i (00:04:53) prepopup 10.2293 13.4230
+\i (00:04:53) oops 
+\t (00:04:53) last pick:  8.8900 21.5900
+\t (00:04:53) Pick first element.
+\i (00:04:55) pick grid 8.5304 22.0877
+\t (00:04:55) last pick:  8.2550 22.2250
+\t (00:04:55) last pick:  7.6200 22.8600
+\t (00:04:55) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:04:55) last pick:  7.6200 22.8600
+\i (00:04:55) mouse_pos 8.5304 22.0877
+\i (00:04:56) mouse_pos 8.5304 21.1957
+\i (00:04:56) mouse_pos 8.4030 20.4312
+\i (00:04:57) delete 
+\i (00:04:58) pick grid 6.4492 21.1532
+\t (00:04:58) last pick:  6.3500 20.9550
+\t (00:04:58) Connect Line "Dat10, Etch/Top"
+\i (00:04:59) pick grid 8.9551 20.5161
+\t (00:04:59) last pick:  8.8900 20.3200
+\t (00:04:59) Connect Line "Dat11, Etch/Top"
+\i (00:05:00) delete 
+\i (00:05:02) pick grid 0.5028 18.3500
+\t (00:05:02) last pick:  0.6350 18.4150
+\t (00:05:02) Connect Line "Vcc, Etch/Top"
+\i (00:05:03) delete 
+\i (00:05:06) pick grid 2.6690 22.5973
+\t (00:05:06) last pick:  2.5400 22.8600
+\t (00:05:06) Symbol "U1"
+\i (00:05:08) pick grid 2.8389 22.5124
+\t (00:05:08) last pick:  2.5400 22.2250
+\i (00:05:11) prepopup 2.8389 24.4237
+\i (00:05:11) oops 
+\t (00:05:11) last pick:  2.5400 22.8600
+\i (00:05:17) pick grid 2.4991 22.5124
+\t (00:05:17) last pick:  2.5400 22.2250
+\t (00:05:17) Symbol "U1"
+\i (00:05:20) pick grid 2.2867 22.9796
+\t (00:05:20) last pick:  2.5400 22.8600
+\i (00:05:23) prepopup 4.7077 24.7210
+\i (00:05:23) done 
+\i (00:05:23) generaledit 
+\i (00:05:24) prepopup 4.7927 23.3619
+\i (00:05:24) pick grid 2.1593 22.2576
+\t (00:05:24) last pick:  1.9050 22.2250
+\i (00:05:28) undo 
+\i (00:05:28) trapsize 2124
+\i (00:05:28) generaledit 
+\i (00:05:30) pick grid 2.9663 22.5124
+\t (00:05:30) last pick:  3.1750 22.2250
+\i (00:05:32) pick grid 3.3486 9.8976
+\t (00:05:32) last pick:  3.1750 10.1600
+\i (00:05:34) pick grid 2.9238 22.7248
+\t (00:05:34) last pick:  3.1750 22.8600
+\i (00:05:36) pick grid 3.2211 22.3425
+\t (00:05:36) last pick:  3.1750 22.2250
+\i (00:05:45) add connect 
+\t (00:05:45) Pick first element.
+\t (00:05:45) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:05:45) last pick:  2.5400 22.8600
+\i (00:05:48) pick grid 2.5840 22.5124
+\t (00:05:48) last pick:  2.5400 22.2250
+\t (00:05:48) No DRC errors detected.
+\i (00:05:50) pick grid 2.1593 20.5586
+\t (00:05:50) last pick:  1.9050 20.3200
+\t (00:05:50) No DRC errors detected.
+\i (00:05:52) pick grid 1.5647 19.9640
+\t (00:05:52) last pick:  1.2700 19.6850
+\t (00:05:52) No DRC errors detected.
+\i (00:05:55) pick grid 1.2249 14.2300
+\t (00:05:55) last pick:  1.2700 13.9700
+\t (00:05:55) No DRC errors detected.
+\i (00:05:58) pick grid 2.4566 12.3611
+\t (00:05:58) last pick:  2.5400 12.0650
+\t (00:05:58) No DRC errors detected.
+\i (00:05:58) mouse_pos 2.4991 11.0444
+\i (00:05:58) pick grid 2.5416 10.4498
+\t (00:05:58) last pick:  2.5400 10.1600
+\t (00:05:58) No DRC errors detected.
+\t (00:05:58) Pick first element.
+\i (00:05:59) generaledit 
+\i (00:06:02) cd 'C:`\Users`\user`\Desktop`\vscode_orcad`\cdns`\cdns`\tools`\pcb`\bin~Z~Z~Z~ZF3~Z~ZF3F3~Z~Z~Z~Z~Z~Z~Z~Zz~Z~ZF3F3F3' 
+\e (00:06:02) Can't change to directory, C:\Users\user\Desktop\vscode_orcad\cdns\cdns\tools\pcb\bin~Z~Z~Z~ZF3~Z~ZF3F3~Z~Z~Z~Z~Z~Z~Z~Zz~Z~ZF3F3F3
+\i (00:06:06) prepopup 2.4991 21.5355
+\i (00:06:13) pop dyn_option_select @:@Copy 
+\i (00:06:13) copy 
+\i (00:06:15) pick grid 4.8352 21.3231
+\t (00:06:15) last pick:  5.0800 21.5900
+\i (00:06:17) add connect 
+\t (00:06:17) Pick first element.
+\t (00:06:17) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:17) last pick:  2.5400 21.5355
+\i (00:06:17) mouse_pos 4.8776 20.9409
+\i (00:06:18) mouse_pos 4.7502 20.5586
+\i (00:06:18) mouse_pos 4.7927 22.5973
+\i (00:06:19) mouse_pos 4.6653 21.8753
+\i (00:06:19) mouse_pos 1.2249 18.0951
+\i (00:06:19) mouse_pos 1.7346 18.7322
+\i (00:06:19) mouse_pos 2.6265 20.6860
+\i (00:06:19) mouse_pos 2.3717 21.9602
+\i (00:06:19) mouse_pos 2.2867 22.5549
+\i (00:06:20) Esc 
+\i (00:06:20) mouse_pos 3.5185 21.6204
+\i (00:06:21) done 
+\i (00:06:21) generaledit 
+\i (00:06:22) add connect 
+\t (00:06:22) Pick first element.
+\t (00:06:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:22) last pick:  2.5400 21.5355
+\i (00:06:22) mouse_pos 5.0900 20.9409
+\i (00:06:23) Esc 
+\i (00:06:24) done 
+\i (00:06:24) generaledit 
+\i (00:06:26) pick grid 4.9626 22.2576
+\t (00:06:26) last pick:  5.0800 22.2250
+\i (00:06:27) add connect 
+\t (00:06:27) Pick first element.
+\t (00:06:27) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:06:27) last pick:  5.0800 22.8600
+\i (00:06:27) mouse_pos 4.9626 22.2576
+\i (00:06:28) mouse_pos 5.3024 20.5586
+\i (00:06:30) pick grid 6.1519 19.9640
+\t (00:06:30) last pick:  6.3500 19.6850
+\t (00:06:30) No DRC errors detected.
+\i (00:06:33) pick grid 5.3448 12.0213
+\t (00:06:33) last pick:  5.0800 12.0650
+\t (00:06:33) No DRC errors detected.
+\i (00:06:33) mouse_pos 5.2174 11.0869
+\i (00:06:34) pick grid 5.2174 11.0869
+\t (00:06:34) last pick:  5.0800 10.7950
+\t (00:06:34) No DRC errors detected.
+\t (00:06:34) Pick first element.
+\i (00:06:34) generaledit 
+\i (00:06:38) pick grid 5.1325 21.3231
+\t (00:06:38) last pick:  5.0800 21.5900
+\i (00:06:39) pick grid tgl 5.6422 20.3462
+\t (00:06:39) last pick:  5.7150 20.3200
+\i (00:06:40) pick grid tgl 6.4067 18.3500
+\t (00:06:40) last pick:  6.3500 18.4150
+\i (00:06:40) pick grid tgl 5.5997 12.3611
+\t (00:06:40) last pick:  5.7150 12.0650
+\i (00:06:41) pick grid tgl 5.0475 11.2568
+\t (00:06:41) last pick:  5.0800 11.4300
+\i (00:06:42) prepopup 5.6846 12.7434
+\i (00:06:43) pop dyn_option_select @:@Copy 
+\i (00:06:43) copy 
+\i (00:06:45) pick grid 8.3605 12.4036
+\t (00:06:45) last pick:  8.2550 12.7000
+\i (00:06:47) pick grid 11.0788 12.5735
+\t (00:06:47) last pick:  10.7950 12.7000
+\i (00:06:48) pick grid 13.0751 12.4036
+\t (00:06:48) last pick:  13.3350 12.7000
+\i (00:06:50) pick grid 16.0058 12.4461
+\t (00:06:50) last pick:  15.8750 12.7000
+\i (00:06:52) pick grid 18.7241 12.6160
+\t (00:06:52) last pick:  18.4150 12.7000
+\i (00:07:11) add connect 
+\i (00:07:11) generaledit 
+\i (00:07:12) pick grid 2.5840 14.8671
+\t (00:07:12) last pick:  2.5400 14.6050
+\i (00:07:13) add connect 
+\t (00:07:13) Pick first element.
+\t (00:07:13) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:07:13) last pick:  2.5400 15.2400
+\i (00:07:15) pick grid 2.4141 14.9096
+\t (00:07:15) last pick:  2.5400 14.6050
+\t (00:07:15) No DRC errors detected.
+\i (00:07:16) pick grid 2.3717 13.6353
+\t (00:07:16) last pick:  2.5400 13.3350
+\t (00:07:16) No DRC errors detected.
+\i (00:07:17) pick grid 2.8814 12.9982
+\t (00:07:17) last pick:  3.1750 12.7000
+\t (00:07:17) No DRC errors detected.
+\i (00:07:24) pick grid 2.2442 4.5459
+\t (00:07:24) last pick:  2.5400 4.4450
+\t (00:07:24) No DRC errors detected.
+\i (00:07:24) mouse_pos 2.4566 3.4841
+\i (00:07:25) pick grid 2.4566 3.4841
+\t (00:07:25) last pick:  2.5400 3.1750
+\t (00:07:25) No DRC errors detected.
+\t (00:07:25) Pick first element.
+\i (00:07:25) generaledit 
+\i (00:07:26) pick grid 5.4723 15.7590
+\t (00:07:26) last pick:  5.7150 15.8750
+\i (00:07:28) pick grid 4.9626 14.6547
+\t (00:07:28) last pick:  5.0800 14.6050
+\i (00:07:28) add connect 
+\t (00:07:28) Pick first element.
+\t (00:07:28) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:07:28) last pick:  5.0800 15.2400
+\i (00:07:29) pick grid 5.0475 14.9096
+\t (00:07:29) last pick:  5.0800 14.6050
+\t (00:07:29) No DRC errors detected.
+\i (00:07:30) pick grid 4.7927 13.6353
+\t (00:07:30) last pick:  5.0800 13.3350
+\t (00:07:30) No DRC errors detected.
+\i (00:07:49) prepopup 4.9201 13.4230
+\i (00:07:49) oops 
+\t (00:07:49) last pick:  5.0800 14.6050
+\i (00:07:50) prepopup 4.6653 13.4655
+\i (00:07:51) oops 
+\t (00:07:51) last pick:  5.0800 15.2400
+\i (00:07:54) prepopup 4.3679 13.2106
+\i (00:07:55) oops 
+\t (00:07:55) Pick first element.
+\i (00:07:55) generaledit 
+\i (00:08:06) delete 
+\t (00:08:06) Selected item not valid for current operation, ignored: Pin "U1.2 (Dat1)"
+\t (00:08:06) No valid items selected for the current operation, exiting.
+\i (00:08:06) generaledit 
+\i (00:08:07) pick grid 2.5840 13.9327
+\t (00:08:07) last pick:  2.5400 13.9700
+\i (00:08:07) pick grid 3.1787 12.5310
+\t (00:08:07) last pick:  3.1750 12.7000
+\i (00:08:08) pick grid 3.6884 9.9826
+\t (00:08:08) last pick:  3.8100 10.1600
+\i (00:08:09) pick grid 2.5416 3.9088
+\t (00:08:09) last pick:  2.5400 3.8100
+\i (00:08:10) pick grid tgl 3.2211 5.1830
+\t (00:08:10) last pick:  3.1750 5.0800
+\i (00:08:10) pick grid tgl 3.6034 6.7121
+\t (00:08:10) last pick:  3.8100 6.9850
+\i (00:08:11) pick grid tgl 3.1362 12.9133
+\t (00:08:11) last pick:  3.1750 12.7000
+\i (00:08:12) pick grid tgl 2.5840 13.9327
+\t (00:08:12) last pick:  2.5400 13.9700
+\i (00:08:13) delete 
+\i (00:08:13) generaledit 
+\i (00:08:20) add connect 
+\t (00:08:20) Pick first element.
+\i (00:09:09) pick grid 17.9171 21.5355
+\t (00:09:09) last pick:  17.7800 21.5900
+\t (00:09:09) last pick:  17.8104 21.5900
+\t (00:09:09) last pick:  17.8104 21.5900
+\i (00:09:09) mouse_pos 17.8747 21.1957
+\i (00:09:09) mouse_pos 17.8747 20.6011
+\i (00:09:10) pick grid tgl 18.1295 20.4312
+\t (00:09:10) last pick:  18.4150 20.3200
+\t (00:09:10) No DRC errors detected.
+\t (00:09:10) Pick first element.
+\i (00:09:11) pick grid tgl 17.4074 22.0027
+\t (00:09:11) last pick:  17.1450 22.2250
+\t (00:09:11) Pick first element.
+\t (00:09:11) last pick:  17.7800 22.8600
+\t (00:09:11) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:09:11) last pick:  17.7800 22.8600
+\i (00:09:11) mouse_pos 17.4924 22.0027
+\i (00:09:11) mouse_pos 18.2569 21.4506
+\i (00:09:12) mouse_pos 18.6817 20.4737
+\i (00:09:12) mouse_pos 18.0021 21.2807
+\i (00:09:12) mouse_pos 18.1295 20.4312
+\i (00:09:12) mouse_pos 18.3419 19.7516
+\i (00:09:12) mouse_pos 18.7666 18.7747
+\i (00:09:12) mouse_pos 19.5311 16.8209
+\i (00:09:13) mouse_pos 19.3188 12.9558
+\i (00:09:13) mouse_pos 19.1489 12.3611
+\i (00:09:13) mouse_pos 18.8516 13.1257
+\i (00:09:13) mouse_pos 18.6817 13.6353
+\i (00:09:13) mouse_pos 18.7666 19.5392
+\i (00:09:14) prepopup 19.3188 20.1339
+\i (00:09:14) done 
+\i (00:09:15) generaledit 
+\i (00:09:15) pick grid 17.5349 21.1532
+\t (00:09:15) last pick:  17.7800 20.9550
+\i (00:09:16) pick grid tgl 18.5118 20.3038
+\t (00:09:16) last pick:  18.4150 20.3200
+\i (00:09:17) pick grid tgl 19.1064 18.5199
+\t (00:09:17) last pick:  19.0500 18.4150
+\i (00:09:18) pick grid tgl 18.3419 12.4886
+\t (00:09:18) last pick:  18.4150 12.7000
+\i (00:09:18) pick grid tgl 17.5349 11.0020
+\t (00:09:18) last pick:  17.7800 10.7950
+\i (00:09:19) pick grid tgl 17.7048 11.4267
+\t (00:09:19) last pick:  17.7800 11.4300
+\i (00:09:20) prepopup 18.0870 12.3187
+\i (00:09:22) prepopup 19.1064 14.1026
+\i (00:09:23) pick grid 18.8940 14.8246
+\t (00:09:23) last pick:  19.0500 14.6050
+\i (00:09:25) pick grid 17.7897 21.3231
+\t (00:09:25) last pick:  17.7800 21.5900
+\i (00:09:26) pick grid tgl 18.4693 20.1339
+\t (00:09:26) last pick:  18.4150 20.3200
+\i (00:09:26) pick grid tgl 18.9790 18.5623
+\t (00:09:26) last pick:  19.0500 18.4150
+\i (00:09:27) pick grid tgl 18.0446 12.4036
+\t (00:09:27) last pick:  17.7800 12.7000
+\i (00:09:28) pick grid tgl 17.7048 11.7665
+\t (00:09:28) last pick:  17.7800 12.0650
+\i (00:09:29) pick grid tgl 18.1295 12.6160
+\t (00:09:29) last pick:  18.4150 12.7000
+\i (00:09:30) pick grid tgl 17.6623 11.2143
+\t (00:09:30) last pick:  17.7800 11.4300
+\i (00:09:31) prepopup 18.1720 12.4461
+\i (00:09:32) pop dyn_option_select @:@Copy 
+\i (00:09:32) copy 
+\i (00:09:36) pick grid 23.1839 12.6584
+\t (00:09:36) last pick:  23.4950 12.7000
+\i (00:09:46) Esc 
+\i (00:09:47) Esc 
+\i (00:09:47) prepopup 25.9022 12.4886
+\i (00:09:48) oops 
+\i (00:09:49) prepopup 25.8598 12.4886
+\i (00:09:50) oops 
+\t (00:09:50) Select the element(s) to copy.
+\i (00:09:50) generaledit 
+\i (00:09:51) pick grid 22.8866 22.5973
+\t (00:09:51) last pick:  22.8600 22.8600
+\i (00:09:52) add connect 
+\t (00:09:52) Pick first element.
+\t (00:09:52) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:09:52) last pick:  22.8600 22.8600
+\i (00:09:53) pick grid 22.9291 22.7672
+\t (00:09:53) last pick:  22.8600 22.8600
+\w (00:09:53) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:09:54) pick grid 22.8016 20.5586
+\t (00:09:54) last pick:  22.8600 20.3200
+\t (00:09:54) No DRC errors detected.
+\i (00:09:56) pick grid 23.0990 20.6435
+\t (00:09:56) last pick:  22.8600 20.9550
+\t (00:09:56) No DRC errors detected.
+\i (00:09:58) pick grid 23.9484 19.9640
+\t (00:09:58) last pick:  24.1300 19.6850
+\t (00:09:58) No DRC errors detected.
+\i (00:10:01) pick grid 23.9909 13.0407
+\t (00:10:01) last pick:  24.1300 13.3350
+\t (00:10:01) No DRC errors detected.
+\i (00:10:03) pick grid 23.1414 12.0213
+\t (00:10:03) last pick:  22.8600 12.0650
+\t (00:10:03) No DRC errors detected.
+\i (00:10:03) mouse_pos 22.8441 11.0444
+\i (00:10:04) pick grid 22.8016 10.4498
+\t (00:10:04) last pick:  22.8600 10.1600
+\t (00:10:04) No DRC errors detected.
+\t (00:10:04) Pick first element.
+\i (00:10:04) generaledit 
+\i (00:10:09) pick grid 22.7592 21.3656
+\t (00:10:09) last pick:  22.8600 21.5900
+\i (00:10:09) pick grid tgl 23.5237 20.5161
+\t (00:10:09) last pick:  23.4950 20.3200
+\i (00:10:10) pick grid tgl 24.5431 17.8403
+\t (00:10:10) last pick:  24.7650 17.7800
+\i (00:10:10) pick grid tgl 23.8635 17.5005
+\t (00:10:10) last pick:  24.1300 17.7800
+\i (00:10:11) pick grid tgl 24.0334 16.3112
+\t (00:10:11) last pick:  24.1300 16.5100
+\i (00:10:12) pick grid tgl 23.3538 12.5735
+\t (00:10:12) last pick:  23.4950 12.7000
+\i (00:10:12) pick grid tgl 22.8016 11.2568
+\t (00:10:12) last pick:  22.8600 11.4300
+\i (00:10:13) pick grid tgl 24.0759 14.8246
+\t (00:10:13) last pick:  24.1300 14.6050
+\i (00:10:15) prepopup 24.0759 14.8671
+\i (00:10:16) pop dyn_option_select @:@Copy 
+\i (00:10:16) copy 
+\i (00:10:17) pick grid 26.7942 14.9096
+\t (00:10:17) last pick:  26.6700 14.6050
+\i (00:10:22) Esc 
+\i (00:10:24) prepopup 27.9835 17.5430
+\i (00:10:25) oops 
+\i (00:10:25) prepopup 27.9410 18.7747
+\i (00:10:26) oops 
+\t (00:10:26) Select the element(s) to copy.
+\i (00:10:26) generaledit 
+\i (00:10:26) add connect 
+\i (00:10:26) generaledit 
+\i (00:10:27) pick grid 25.5200 22.5124
+\t (00:10:27) last pick:  25.4000 22.2250
+\i (00:10:29) add connect 
+\t (00:10:29) Pick first element.
+\t (00:10:29) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:10:29) last pick:  25.4000 22.8600
+\i (00:10:29) pick grid 25.1802 22.9796
+\t (00:10:29) last pick:  25.4000 22.8600
+\w (00:10:29) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:10:31) pick grid 25.3501 21.2382
+\t (00:10:31) last pick:  25.4000 20.9550
+\t (00:10:31) No DRC errors detected.
+\i (00:10:33) pick grid 25.5200 20.6435
+\t (00:10:33) last pick:  25.4000 20.9550
+\w (00:10:33) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:10:36) pick grid 26.4969 19.9640
+\t (00:10:36) last pick:  26.6700 19.6850
+\t (00:10:36) No DRC errors detected.
+\i (00:10:37) pick grid 26.5818 13.6353
+\t (00:10:37) last pick:  26.6700 13.3350
+\t (00:10:37) No DRC errors detected.
+\i (00:10:38) pick grid 25.6899 12.2337
+\t (00:10:38) last pick:  25.4000 12.0650
+\t (00:10:38) No DRC errors detected.
+\i (00:10:38) mouse_pos 25.5200 11.0869
+\i (00:10:39) pick grid 25.5200 11.0869
+\t (00:10:39) last pick:  25.4000 10.7950
+\t (00:10:39) No DRC errors detected.
+\t (00:10:39) Pick first element.
+\i (00:10:39) generaledit 
+\i (00:10:41) pick grid 28.1958 22.7672
+\t (00:10:41) last pick:  27.9400 22.8600
+\i (00:10:42) add connect 
+\t (00:10:42) Pick first element.
+\t (00:10:42) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:10:42) last pick:  27.9400 22.8600
+\i (00:10:43) pick grid 28.1534 22.7248
+\t (00:10:43) last pick:  27.9400 22.8600
+\w (00:10:43) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:10:44) pick grid 27.7286 21.8753
+\t (00:10:44) last pick:  27.9400 21.5900
+\t (00:10:44) No DRC errors detected.
+\i (00:10:47) pick grid 29.0453 19.9640
+\t (00:10:47) last pick:  29.2100 19.6850
+\t (00:10:47) No DRC errors detected.
+\i (00:10:49) pick grid 29.0453 13.0407
+\t (00:10:49) last pick:  29.2100 13.3350
+\t (00:10:49) No DRC errors detected.
+\i (00:10:50) pick grid 28.0684 12.3611
+\t (00:10:50) last pick:  27.9400 12.0650
+\t (00:10:50) No DRC errors detected.
+\i (00:10:50) mouse_pos 28.0684 11.0869
+\i (00:10:51) pick grid 28.0684 11.0869
+\t (00:10:51) last pick:  27.9400 10.7950
+\t (00:10:51) No DRC errors detected.
+\t (00:10:51) Pick first element.
+\i (00:10:51) generaledit 
+\i (00:10:52) pick grid 30.6168 23.1495
+\t (00:10:52) last pick:  30.4800 22.8600
+\i (00:10:53) add connect 
+\t (00:10:53) Pick first element.
+\t (00:10:53) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:10:53) last pick:  30.4800 22.8600
+\i (00:10:53) pick grid 30.4894 22.7248
+\t (00:10:53) last pick:  30.4800 22.8600
+\w (00:10:53) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:10:55) pick grid 30.4045 21.2382
+\t (00:10:55) last pick:  30.4800 20.9550
+\t (00:10:55) No DRC errors detected.
+\i (00:10:56) pick grid 31.4663 19.9215
+\t (00:10:56) last pick:  31.7500 19.6850
+\t (00:10:56) No DRC errors detected.
+\i (00:11:00) pick grid 30.7018 12.3611
+\t (00:11:00) last pick:  30.4800 12.0650
+\t (00:11:00) No DRC errors detected.
+\i (00:11:01) mouse_pos 30.4894 11.0444
+\i (00:11:01) pick grid 30.5744 10.4498
+\t (00:11:01) last pick:  30.4800 10.1600
+\t (00:11:01) No DRC errors detected.
+\t (00:11:01) Pick first element.
+\i (00:11:01) generaledit 
+\i (00:11:02) add connect 
+\t (00:11:02) Pick first element.
+\t (00:11:02) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:11:02) last pick:  30.4800 22.8600
+\i (00:11:03) pick grid 33.2502 22.6398
+\t (00:11:03) last pick:  33.0200 22.8600
+\t (00:11:03) No DRC errors detected.
+\i (00:11:05) prepopup 33.1228 22.2576
+\i (00:11:06) oops 
+\t (00:11:06) last pick:  30.4800 22.8600
+\i (00:11:07) pick grid 32.7405 22.8947
+\t (00:11:07) last pick:  33.0200 22.8600
+\t (00:11:07) No DRC errors detected.
+\i (00:11:07) prepopup 32.7830 22.1301
+\i (00:11:08) oops 
+\t (00:11:08) last pick:  30.4800 22.8600
+\i (00:11:09) prepopup 32.6556 21.9602
+\i (00:11:10) oops 
+\t (00:11:10) Pick first element.
+\i (00:11:10) generaledit 
+\i (00:11:10) pick grid 32.4857 23.0646
+\t (00:11:10) last pick:  32.3850 22.8600
+\i (00:11:11) add connect 
+\t (00:11:11) Pick first element.
+\t (00:11:11) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:11:11) last pick:  33.0200 22.8600
+\i (00:11:13) pick grid 32.7830 21.2382
+\t (00:11:13) last pick:  33.0200 20.9550
+\t (00:11:13) No DRC errors detected.
+\i (00:11:16) pick grid 34.1847 19.9640
+\t (00:11:16) last pick:  34.2900 19.6850
+\t (00:11:16) No DRC errors detected.
+\i (00:11:18) pick grid 34.2696 13.6353
+\t (00:11:18) last pick:  34.2900 13.3350
+\t (00:11:18) No DRC errors detected.
+\i (00:11:19) pick grid 33.2502 12.3611
+\t (00:11:19) last pick:  33.0200 12.0650
+\t (00:11:19) No DRC errors detected.
+\i (00:11:19) mouse_pos 33.1228 11.0869
+\i (00:11:20) pick grid 33.1228 11.0869
+\t (00:11:20) last pick:  33.0200 10.7950
+\t (00:11:20) No DRC errors detected.
+\t (00:11:20) Pick first element.
+\i (00:11:20) generaledit 
+\i (00:11:21) pick grid 35.6288 22.8947
+\t (00:11:21) last pick:  35.5600 22.8600
+\i (00:11:22) add connect 
+\t (00:11:22) Pick first element.
+\t (00:11:22) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:11:22) last pick:  35.5600 22.8600
+\i (00:11:23) pick grid 35.4589 21.8753
+\t (00:11:23) last pick:  35.5600 21.5900
+\t (00:11:23) No DRC errors detected.
+\i (00:11:24) pick grid 35.4589 21.2382
+\t (00:11:24) last pick:  35.5600 20.9550
+\t (00:11:24) No DRC errors detected.
+\i (00:11:26) pick grid 36.1385 20.6011
+\t (00:11:26) last pick:  36.1950 20.3200
+\t (00:11:26) No DRC errors detected.
+\i (00:11:27) pick grid 36.5207 19.9215
+\t (00:11:27) last pick:  36.8300 19.6850
+\t (00:11:27) No DRC errors detected.
+\i (00:11:29) pick grid 36.6906 13.0407
+\t (00:11:29) last pick:  36.8300 13.3350
+\t (00:11:29) No DRC errors detected.
+\i (00:11:29) pick grid 35.5438 12.3611
+\t (00:11:29) last pick:  35.5600 12.0650
+\t (00:11:29) No DRC errors detected.
+\i (00:11:30) mouse_pos 35.4164 11.0869
+\i (00:11:30) pick grid 35.5438 10.4073
+\t (00:11:30) last pick:  35.5600 10.1600
+\t (00:11:30) No DRC errors detected.
+\t (00:11:30) Pick first element.
+\i (00:11:30) generaledit 
+\i (00:11:31) pick grid 38.0923 22.8947
+\t (00:11:31) last pick:  38.1000 22.8600
+\i (00:11:33) add connect 
+\t (00:11:33) Pick first element.
+\t (00:11:33) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:11:33) last pick:  38.1000 22.8600
+\i (00:11:36) pick grid 38.0498 20.6435
+\t (00:11:36) last pick:  38.1000 20.9550
+\t (00:11:36) No DRC errors detected.
+\i (00:11:39) pick grid 39.1541 19.9640
+\t (00:11:39) last pick:  39.3700 19.6850
+\t (00:11:39) No DRC errors detected.
+\i (00:11:42) pick grid 39.4514 13.0407
+\t (00:11:42) last pick:  39.3700 13.3350
+\t (00:11:42) No DRC errors detected.
+\i (00:11:43) pick grid 38.1772 12.3611
+\t (00:11:43) last pick:  38.1000 12.0650
+\t (00:11:43) No DRC errors detected.
+\i (00:11:43) mouse_pos 38.0073 11.0869
+\i (00:11:44) pick grid 38.0923 10.4498
+\t (00:11:44) last pick:  38.1000 10.1600
+\t (00:11:44) No DRC errors detected.
+\t (00:11:44) Pick first element.
+\i (00:11:44) generaledit 
+\i (00:11:50) pick grid 4.7077 14.7821
+\t (00:11:50) last pick:  4.4450 14.6050
+\i (00:11:51) add connect 
+\t (00:11:51) Pick first element.
+\t (00:11:51) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:11:51) last pick:  5.0800 15.2400
+\i (00:11:53) pick grid 5.0475 13.6353
+\t (00:11:53) last pick:  5.0800 13.3350
+\t (00:11:53) No DRC errors detected.
+\i (00:11:55) pick grid 4.0282 12.3611
+\t (00:11:55) last pick:  3.8100 12.0650
+\t (00:11:55) No DRC errors detected.
+\i (00:11:58) pick grid 3.8583 5.4379
+\t (00:11:58) last pick:  3.8100 5.7150
+\t (00:11:58) No DRC errors detected.
+\i (00:11:59) pick grid 4.9201 4.7583
+\t (00:11:59) last pick:  5.0800 4.4450
+\t (00:11:59) No DRC errors detected.
+\i (00:11:59) mouse_pos 5.3448 3.4841
+\i (00:12:00) pick grid 5.4298 2.8470
+\t (00:12:00) last pick:  5.7150 2.5400
+\t (00:12:00) No DRC errors detected.
+\t (00:12:00) Pick first element.
+\i (00:12:00) generaledit 
+\i (00:12:01) pick grid 7.4685 14.7397
+\t (00:12:01) last pick:  7.6200 14.6050
+\i (00:12:02) pick grid 5.0900 14.1875
+\t (00:12:02) last pick:  5.0800 13.9700
+\i (00:12:03) pick grid tgl 4.6653 12.9133
+\t (00:12:03) last pick:  4.4450 12.7000
+\i (00:12:04) pick grid tgl 3.6884 10.7896
+\t (00:12:04) last pick:  3.8100 10.7950
+\i (00:12:05) pick grid tgl 4.7927 4.8008
+\t (00:12:05) last pick:  5.0800 5.0800
+\i (00:12:05) pick grid tgl 5.4298 3.7389
+\t (00:12:05) last pick:  5.7150 3.8100
+\i (00:12:06) pick grid tgl 5.2599 3.7814
+\t (00:12:06) last pick:  5.0800 3.8100
+\i (00:12:08) pick grid tgl 5.0475 3.4841
+\t (00:12:08) last pick:  5.0800 3.1750
+\i (00:12:10) prepopup 5.0900 4.0787
+\i (00:12:11) pop dyn_option_select @:@Copy 
+\i (00:12:11) copy 
+\i (00:12:17) pick grid 7.6809 4.1212
+\t (00:12:17) last pick:  7.6200 3.8100
+\i (00:12:50) prepopup 9.7621 4.3760
+\i (00:12:51) oops 
+\i (00:12:52) prepopup 9.0401 5.5228
+\i (00:12:52) oops 
+\t (00:12:52) Select the element(s) to copy.
+\i (00:12:52) generaledit 
+\i (00:12:54) pick grid 6.9589 14.6122
+\t (00:12:54) last pick:  6.9850 14.6050
+\i (00:12:55) add connect 
+\t (00:12:55) Pick first element.
+\t (00:12:55) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:12:55) last pick:  7.6200 15.2400
+\i (00:12:58) pick grid 6.6191 11.8090
+\t (00:12:58) last pick:  6.3500 12.0650
+\t (00:12:58) No DRC errors detected.
+\i (00:13:00) pick grid 6.5341 5.4804
+\t (00:13:00) last pick:  6.3500 5.7150
+\t (00:13:00) No DRC errors detected.
+\i (00:13:03) pick grid 7.3411 4.7158
+\t (00:13:03) last pick:  7.6200 4.4450
+\t (00:13:03) No DRC errors detected.
+\i (00:13:03) mouse_pos 7.5960 3.4841
+\i (00:13:04) pick grid 7.5960 2.8470
+\t (00:13:04) last pick:  7.6200 2.5400
+\t (00:13:04) No DRC errors detected.
+\t (00:13:04) Pick first element.
+\i (00:13:04) generaledit 
+\i (00:13:08) pick grid 9.9320 15.6316
+\t (00:13:08) last pick:  10.1600 15.8750
+\i (00:13:09) add connect 
+\t (00:13:09) Pick first element.
+\t (00:13:09) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:13:09) last pick:  10.1600 15.2400
+\i (00:13:12) pick grid 8.9127 12.3611
+\t (00:13:12) last pick:  8.8900 12.0650
+\t (00:13:12) No DRC errors detected.
+\i (00:13:13) pick grid 8.7428 5.9900
+\t (00:13:13) last pick:  8.8900 5.7150
+\t (00:13:14) No DRC errors detected.
+\i (00:13:15) pick grid 9.8471 4.5884
+\t (00:13:15) last pick:  10.1600 4.4450
+\t (00:13:15) No DRC errors detected.
+\i (00:13:15) mouse_pos 10.1869 3.4841
+\i (00:13:15) pick grid 10.1869 3.4841
+\t (00:13:15) last pick:  10.1600 3.1750
+\t (00:13:15) No DRC errors detected.
+\t (00:13:15) Pick first element.
+\i (00:13:15) generaledit 
+\i (00:13:17) pick grid 12.6079 14.8671
+\t (00:13:17) last pick:  12.7000 14.6050
+\i (00:13:17) add connect 
+\t (00:13:17) Pick first element.
+\t (00:13:17) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:13:17) last pick:  12.7000 15.2400
+\i (00:13:18) pick grid 12.5229 13.6353
+\t (00:13:18) last pick:  12.7000 13.3350
+\t (00:13:18) No DRC errors detected.
+\i (00:13:19) pick grid 11.7159 12.1488
+\t (00:13:19) last pick:  11.4300 12.0650
+\t (00:13:19) No DRC errors detected.
+\i (00:13:21) pick grid 11.5036 5.9476
+\t (00:13:21) last pick:  11.4300 5.7150
+\t (00:13:21) No DRC errors detected.
+\i (00:13:22) pick grid 12.4380 4.7583
+\t (00:13:22) last pick:  12.7000 4.4450
+\t (00:13:22) No DRC errors detected.
+\i (00:13:22) mouse_pos 12.5229 3.4841
+\i (00:13:23) pick grid 12.6079 2.8470
+\t (00:13:23) last pick:  12.7000 2.5400
+\t (00:13:23) No DRC errors detected.
+\t (00:13:23) Pick first element.
+\i (00:13:23) generaledit 
+\i (00:13:24) pick grid 14.8165 15.5467
+\t (00:13:24) last pick:  14.6050 15.2400
+\i (00:13:25) add connect 
+\t (00:13:25) Pick first element.
+\t (00:13:25) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:13:25) last pick:  15.2400 15.2400
+\i (00:13:26) pick grid 14.9864 13.6353
+\t (00:13:26) last pick:  15.2400 13.3350
+\t (00:13:26) No DRC errors detected.
+\i (00:13:27) pick grid 14.0520 12.3611
+\t (00:13:27) last pick:  13.9700 12.0650
+\t (00:13:27) No DRC errors detected.
+\i (00:13:28) pick grid 14.2644 5.9900
+\t (00:13:28) last pick:  13.9700 5.7150
+\t (00:13:28) No DRC errors detected.
+\i (00:13:29) pick grid 14.9440 4.6733
+\t (00:13:29) last pick:  15.2400 4.4450
+\t (00:13:29) No DRC errors detected.
+\i (00:13:29) mouse_pos 15.2413 3.4841
+\i (00:13:30) pick grid 15.2413 2.8045
+\t (00:13:30) last pick:  15.2400 2.5400
+\t (00:13:30) No DRC errors detected.
+\t (00:13:30) Pick first element.
+\i (00:13:30) generaledit 
+\i (00:13:44) pick grid 17.6623 14.8246
+\t (00:13:44) last pick:  17.7800 14.6050
+\i (00:13:46) pick grid 17.7048 15.4193
+\t (00:13:46) last pick:  17.7800 15.2400
+\i (00:13:47) pick grid 17.9596 15.0795
+\t (00:13:47) last pick:  17.7800 15.2400
+\i (00:13:49) pick grid 17.8322 15.1219
+\t (00:13:49) last pick:  17.7800 15.2400
+\i (00:13:50) pick grid 17.7048 14.7397
+\t (00:13:50) last pick:  17.7800 14.6050
+\i (00:13:51) pick grid 17.5773 14.8246
+\t (00:13:51) last pick:  17.7800 14.6050
+\i (00:13:51) pick grid 17.5773 13.0832
+\t (00:13:51) last pick:  17.7800 13.3350
+\i (00:13:52) pick grid 17.7472 14.8671
+\t (00:13:52) last pick:  17.7800 14.6050
+\i (00:13:52) pick grid 17.7472 14.7397
+\t (00:13:52) last pick:  17.7800 14.6050
+\i (00:13:53) pick grid 17.6198 13.3380
+\t (00:13:53) last pick:  17.7800 13.3350
+\i (00:13:53) pick grid 17.5349 15.3343
+\t (00:13:53) last pick:  17.7800 15.2400
+\i (00:13:54) pick grid 17.4924 15.2069
+\t (00:13:54) last pick:  17.7800 15.2400
+\i (00:13:54) pick grid 17.7048 13.7203
+\t (00:13:54) last pick:  17.7800 13.9700
+\e (00:13:56) Command not found: 333F3F3F3F3F3
+\i (00:13:59) add connect 
+\t (00:13:59) Pick first element.
+\i (00:13:59) pick grid 17.8322 15.1644
+\t (00:13:59) last pick:  17.7800 15.2400
+\t (00:13:59) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:13:59) last pick:  17.7800 15.2400
+\i (00:14:00) pick grid 17.7048 13.6353
+\t (00:14:00) last pick:  17.7800 13.3350
+\t (00:14:00) No DRC errors detected.
+\i (00:14:01) pick grid 16.8128 12.0213
+\t (00:14:01) last pick:  16.5100 12.0650
+\t (00:14:01) No DRC errors detected.
+\i (00:14:04) pick grid 16.2182 5.9476
+\t (00:14:04) last pick:  16.5100 5.7150
+\t (00:14:04) No DRC errors detected.
+\i (00:14:05) pick grid 17.4924 4.5459
+\t (00:14:05) last pick:  17.7800 4.4450
+\t (00:14:05) No DRC errors detected.
+\i (00:14:05) mouse_pos 17.4924 3.4841
+\i (00:14:06) pick grid 17.5773 2.8045
+\t (00:14:06) last pick:  17.7800 2.5400
+\t (00:14:06) No DRC errors detected.
+\t (00:14:06) Pick first element.
+\i (00:14:14) pick grid 22.6742 15.0370
+\t (00:14:14) last pick:  22.8600 15.2400
+\t (00:14:14) Pick first element.
+\t (00:14:14) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:14) last pick:  22.8600 15.2400
+\i (00:14:16) pick grid 20.6779 13.2106
+\t (00:14:16) last pick:  20.9550 13.3350
+\t (00:14:16) No DRC errors detected.
+\i (00:14:17) pick grid 20.8903 5.3954
+\t (00:14:17) last pick:  20.9550 5.0800
+\t (00:14:17) No DRC errors detected.
+\i (00:14:18) mouse_pos 22.4194 3.4841
+\i (00:14:19) pick grid 22.5893 2.8470
+\t (00:14:19) last pick:  22.8600 2.5400
+\t (00:14:19) No DRC errors detected.
+\t (00:14:19) Pick first element.
+\i (00:14:20) pick grid 25.3076 15.0795
+\t (00:14:20) last pick:  25.4000 15.2400
+\t (00:14:20) Pick first element.
+\t (00:14:20) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:20) last pick:  25.4000 15.2400
+\i (00:14:23) pick grid 24.3307 12.3611
+\t (00:14:23) last pick:  24.1300 12.0650
+\t (00:14:23) No DRC errors detected.
+\i (00:14:26) pick grid 24.1608 6.0325
+\t (00:14:26) last pick:  24.1300 6.3500
+\t (00:14:26) No DRC errors detected.
+\i (00:14:29) pick grid 24.4156 5.4379
+\t (00:14:29) last pick:  24.1300 5.7150
+\t (00:14:29) No DRC errors detected.
+\i (00:14:32) pick grid 25.6899 4.6309
+\t (00:14:32) last pick:  25.4000 4.4450
+\t (00:14:32) No DRC errors detected.
+\i (00:14:32) mouse_pos 25.3925 3.4416
+\i (00:14:32) pick grid 25.4775 2.8045
+\t (00:14:32) last pick:  25.4000 2.5400
+\t (00:14:32) No DRC errors detected.
+\t (00:14:32) Pick first element.
+\i (00:14:34) pick grid 27.7286 14.9096
+\t (00:14:34) last pick:  27.9400 14.6050
+\t (00:14:34) Pick first element.
+\t (00:14:34) last pick:  27.9400 15.2400
+\t (00:14:34) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:34) last pick:  27.9400 15.2400
+\i (00:14:36) pick grid 26.9641 12.3187
+\t (00:14:36) last pick:  26.6700 12.0650
+\t (00:14:36) No DRC errors detected.
+\i (00:14:37) pick grid 26.8367 5.9900
+\t (00:14:37) last pick:  26.6700 5.7150
+\t (00:14:37) No DRC errors detected.
+\i (00:14:39) pick grid 27.7711 4.7583
+\t (00:14:39) last pick:  27.9400 4.4450
+\t (00:14:39) No DRC errors detected.
+\i (00:14:39) mouse_pos 27.7711 3.3991
+\i (00:14:40) pick grid 27.7711 2.8470
+\t (00:14:40) last pick:  27.9400 2.5400
+\t (00:14:40) No DRC errors detected.
+\t (00:14:40) Pick first element.
+\i (00:14:41) pick grid 30.1921 14.9945
+\t (00:14:41) last pick:  30.4800 15.2400
+\t (00:14:41) Pick first element.
+\t (00:14:41) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:41) last pick:  30.4800 15.2400
+\i (00:14:42) pick grid 29.5125 12.2337
+\t (00:14:42) last pick:  29.2100 12.0650
+\t (00:14:42) No DRC errors detected.
+\i (00:14:45) pick grid 29.3851 5.4379
+\t (00:14:45) last pick:  29.2100 5.7150
+\t (00:14:45) No DRC errors detected.
+\i (00:14:47) pick grid 30.1921 4.7158
+\t (00:14:47) last pick:  30.4800 4.4450
+\t (00:14:47) No DRC errors detected.
+\i (00:14:47) mouse_pos 30.6168 3.4841
+\i (00:14:48) pick grid 30.5744 2.8470
+\t (00:14:48) last pick:  30.4800 2.5400
+\t (00:14:48) No DRC errors detected.
+\t (00:14:48) Pick first element.
+\i (00:14:48) pick grid 32.9954 15.0370
+\t (00:14:48) last pick:  33.0200 15.2400
+\t (00:14:49) Pick first element.
+\t (00:14:49) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:49) last pick:  33.0200 15.2400
+\i (00:14:50) pick grid 32.0610 12.0213
+\t (00:14:50) last pick:  31.7500 12.0650
+\t (00:14:50) No DRC errors detected.
+\i (00:14:52) pick grid 31.8486 5.4379
+\t (00:14:52) last pick:  31.7500 5.7150
+\t (00:14:52) No DRC errors detected.
+\i (00:14:53) pick grid 33.0379 4.1637
+\t (00:14:53) last pick:  33.0200 4.4450
+\t (00:14:53) No DRC errors detected.
+\i (00:14:54) mouse_pos 33.0379 3.4841
+\i (00:14:54) pick grid 33.0379 2.8470
+\t (00:14:54) last pick:  33.0200 2.5400
+\t (00:14:54) No DRC errors detected.
+\t (00:14:54) Pick first element.
+\i (00:14:55) pick grid 35.4164 14.7397
+\t (00:14:55) last pick:  35.5600 14.6050
+\t (00:14:55) Pick first element.
+\t (00:14:55) last pick:  35.5600 15.2400
+\t (00:14:55) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:14:55) last pick:  35.5600 15.2400
+\i (00:14:57) pick grid 34.4820 12.3611
+\t (00:14:57) last pick:  34.2900 12.0650
+\t (00:14:57) No DRC errors detected.
+\i (00:14:59) pick grid 34.1422 5.9900
+\t (00:14:59) last pick:  34.2900 5.7150
+\t (00:14:59) No DRC errors detected.
+\i (00:15:00) pick grid 35.2465 4.7583
+\t (00:15:00) last pick:  35.5600 4.4450
+\t (00:15:00) No DRC errors detected.
+\i (00:15:00) mouse_pos 35.4589 3.4841
+\i (00:15:01) pick grid 35.4589 2.8470
+\t (00:15:01) last pick:  35.5600 2.5400
+\t (00:15:01) No DRC errors detected.
+\t (00:15:01) Pick first element.
+\i (00:15:05) pick grid 38.0073 14.5273
+\t (00:15:05) last pick:  38.1000 14.6050
+\t (00:15:05) Pick first element.
+\t (00:15:05) last pick:  38.1000 15.2400
+\t (00:15:05) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:15:05) last pick:  38.1000 15.2400
+\i (00:15:06) pick grid 36.9455 12.3611
+\t (00:15:06) last pick:  36.8300 12.0650
+\t (00:15:06) No DRC errors detected.
+\i (00:15:09) pick grid 36.6906 5.4379
+\t (00:15:09) last pick:  36.8300 5.7150
+\t (00:15:09) No DRC errors detected.
+\i (00:15:11) pick grid 38.3046 4.1637
+\t (00:15:11) last pick:  38.1000 4.4450
+\t (00:15:11) No DRC errors detected.
+\i (00:15:12) mouse_pos 38.1772 3.4841
+\i (00:15:12) pick grid 38.1347 2.8470
+\t (00:15:12) last pick:  38.1000 2.5400
+\t (00:15:12) No DRC errors detected.
+\t (00:15:12) Pick first element.
+\i (00:15:20) prepopup 49.6452 7.9863
+\i (00:15:25) pop swap 
+\t (00:15:25) Pick first element.
+\t (00:15:25) Pick first element.
+\i (00:15:40) pick grid 2.4566 15.2069
+\t (00:15:40) last pick:  2.5400 15.2400
+\t (00:15:40) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:15:40) last pick:  2.5400 15.2400
+\i (00:15:43) pick grid 0.9700 13.1257
+\t (00:15:43) last pick:  1.2700 13.3350
+\t (00:15:43) No DRC errors detected.
+\i (00:15:50) pick grid 1.3948 4.1212
+\t (00:15:50) last pick:  1.2700 3.8100
+\t (00:15:50) No DRC errors detected.
+\i (00:15:50) mouse_pos 1.7770 3.4841
+\i (00:15:50) pick grid 1.9894 2.8045
+\t (00:15:50) last pick:  1.9050 2.5400
+\t (00:15:50) No DRC errors detected.
+\t (00:15:50) Pick first element.
+\i (00:15:56) pick grid 2.6690 2.4647
+\t (00:15:56) last pick:  2.5400 2.5400
+\t (00:15:56) Pick first element.
+\t (00:15:56) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:15:56) last pick:  2.5400 2.5400
+\i (00:16:04) pick grid 5.5572 -0.2961
+\t (00:16:04) last pick:  5.7150 0.0000
+\t (00:16:04) No DRC errors detected.
+\i (00:16:06) pick grid 21.2301 0.0437
+\t (00:16:06) last pick:  20.9550 0.0000
+\t (00:16:06) No DRC errors detected.
+\i (00:16:06) mouse_pos 22.5468 1.5727
+\i (00:16:07) mouse_pos 22.4618 1.2330
+\i (00:16:08) pick grid 21.7398 0.2561
+\t (00:16:08) last pick:  21.5900 0.0000
+\t (00:16:08) No DRC errors detected.
+\i (00:16:08) mouse_pos 22.5043 1.6152
+\i (00:16:09) mouse_pos 21.9522 0.8932
+\i (00:16:10) pick grid 20.8903 0.2985
+\t (00:16:10) last pick:  20.9550 0.0000
+\t (00:16:10) No DRC errors detected.
+\i (00:16:10) mouse_pos 22.4194 1.6152
+\i (00:16:11) mouse_pos 21.7398 1.5727
+\i (00:16:11) pick grid 20.1258 0.2985
+\t (00:16:11) last pick:  20.3200 0.0000
+\t (00:16:11) No DRC errors detected.
+\i (00:16:12) mouse_pos 23.1414 1.6577
+\i (00:16:13) pick grid 22.7167 2.2523
+\t (00:16:13) last pick:  22.8600 2.5400
+\t (00:16:13) No DRC errors detected.
+\t (00:16:13) Pick first element.
+\i (00:16:16) zoom fit 
+\i (00:16:16) trapsize 1595
+\i (00:16:18) zoom out 1 
+\i (00:16:18) setwindow pcb
+\i (00:16:18) zoom out 5.6765 3.1600
+\i (00:16:18) trapsize 3191
+\i (00:16:19) zoom in 1 
+\i (00:16:19) setwindow pcb
+\i (00:16:19) zoom in 10.7142 0.0969
+\i (00:16:19) trapsize 1595
+\i (00:16:21) add connect 
+\t (00:16:22) Pick first element.
+\i (00:16:22) add connect 
+\t (00:16:22) Pick first element.
+\i (00:16:23) pick grid 5.1625 2.5538
+\t (00:16:23) last pick:  5.0800 2.5400
+\t (00:16:23) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:16:23) last pick:  5.0800 2.5400
+\i (00:16:26) pick grid 6.8535 0.9265
+\t (00:16:26) last pick:  6.9850 0.6350
+\t (00:16:26) No DRC errors detected.
+\i (00:16:27) pick grid 18.1165 0.9265
+\t (00:16:27) last pick:  18.4150 0.6350
+\t (00:16:27) No DRC errors detected.
+\i (00:16:30) pick grid 22.0410 3.5110
+\t (00:16:30) last pick:  22.2250 3.8100
+\t (00:16:30) No DRC errors detected.
+\i (00:16:31) mouse_pos 25.0083 3.4790
+\i (00:16:32) pick grid 25.1678 2.8409
+\t (00:16:32) last pick:  25.4000 2.5400
+\t (00:16:32) No DRC errors detected.
+\t (00:16:32) Pick first element.
+\i (00:16:46) zoom in 1 
+\i (00:16:46) setwindow pcb
+\i (00:16:46) zoom in 11.8309 6.3506
+\i (00:16:46) trapsize 798
+\i (00:16:46) zoom out 1 
+\i (00:16:46) setwindow pcb
+\i (00:16:46) zoom out 12.2935 6.1592
+\i (00:16:46) trapsize 1595
+\i (00:16:47) zoom out 1 
+\i (00:16:47) setwindow pcb
+\i (00:16:47) zoom out 22.5356 6.1273
+\i (00:16:47) trapsize 3191
+\i (00:16:48) zoom in 1 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) zoom in 46.9121 4.2130
+\i (00:16:48) trapsize 1595
+\i (00:16:50) drag_start grid 42.7643 20.7087
+\i (00:16:51) roam y -16
+\i (00:16:51) roam y -16
+\i (00:16:51) roam y -32
+\i (00:16:51) roam y -16
+\i (00:16:51) drag_stop 41.9347 25.5257
+\t (00:16:51) Pick first element.
+\i (00:17:15) add connect 
+\t (00:17:15) Pick first element.
+\i (00:17:15) pick grid 7.5715 2.7444
+\t (00:17:15) last pick:  7.6200 2.5400
+\t (00:17:15) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:17:15) last pick:  7.6200 2.5400
+\i (00:17:43) pick grid 10.1559 5.3927
+\t (00:17:43) last pick:  10.1600 5.0800
+\t (00:17:43) No DRC errors detected.
+\i (00:17:46) pick grid 27.6087 5.3927
+\t (00:17:46) last pick:  27.3050 5.0800
+\t (00:17:46) No DRC errors detected.
+\i (00:17:54) pick grid 26.0772 5.3927
+\t (00:17:54) last pick:  26.0350 5.0800
+\t (00:17:54) No DRC errors detected.
+\i (00:17:54) pick grid 26.5877 5.4565
+\t (00:17:54) last pick:  26.6700 5.7150
+\t (00:17:54) No DRC errors detected.
+\i (00:17:56) pick grid 26.5558 11.7740
+\t (00:17:56) last pick:  26.6700 12.0650
+\t (00:17:56) No DRC errors detected.
+\i (00:17:57) pick grid 28.0554 13.6245
+\t (00:17:57) last pick:  27.9400 13.3350
+\t (00:17:57) No DRC errors detected.
+\i (00:17:58) mouse_pos 27.8959 14.3265
+\i (00:17:58) pick grid 27.8959 14.3265
+\t (00:17:58) last pick:  27.9400 14.6050
+\t (00:17:58) No DRC errors detected.
+\t (00:17:58) Pick first element.
+\i (00:18:06) pick grid 10.6345 2.2020
+\t (00:18:06) last pick:  10.7950 1.9050
+\t (00:18:06) Pick first element.
+\t (00:18:06) last pick:  10.1600 2.5400
+\t (00:18:06) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:18:06) last pick:  10.1600 2.5400
+\i (00:18:23) prepopup 20.8446 4.1164
+\i (00:18:26) oops 
+\t (00:18:26) last pick:  10.1600 2.5400
+\t (00:18:26) Pick first element.
+\i (00:18:28) drag_start grid 10.9535 5.0736
+\i (00:18:28) drag_stop 10.8897 6.0627
+\i (00:18:29) add connect 
+\t (00:18:29) Pick first element.
+\i (00:19:56) prepopup 26.6515 6.5413
+\i (00:19:58) cancel 
+\i (00:19:58) generaledit 
+\i (00:20:01) undo 
+\i (00:20:01) trapsize 1595
+\i (00:20:01) generaledit 
+\i (00:20:05) pick grid 26.1729 5.3927
+\t (00:20:05) last pick:  26.0350 5.0800
+\i (00:20:06) delete 
+\i (00:20:06) generaledit 
+\i (00:20:07) pick grid 26.6196 9.5086
+\t (00:20:07) last pick:  26.6700 9.5250
+\i (00:20:08) delete 
+\i (00:20:08) generaledit 
+\i (00:20:09) pick grid 27.6725 12.9226
+\t (00:20:09) last pick:  27.9400 12.7000
+\i (00:20:10) delete 
+\i (00:20:10) generaledit 
+\i (00:20:11) pick grid 27.9916 14.1031
+\t (00:20:11) last pick:  27.9400 13.9700
+\i (00:20:12) delete 
+\i (00:20:12) generaledit 
+\i (00:20:15) pick grid 25.9177 5.1374
+\t (00:20:15) last pick:  26.0350 5.0800
+\i (00:20:15) add connect 
+\t (00:20:16) Pick first element.
+\t (00:20:16) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:20:16) last pick:  26.0350 5.0800
+\i (00:20:16) mouse_pos 27.2578 3.4783
+\i (00:20:17) mouse_pos 26.9387 3.8293
+\i (00:20:18) pick grid 25.6943 4.7864
+\t (00:20:18) last pick:  25.4000 5.0800
+\t (00:20:18) No DRC errors detected.
+\i (00:20:19) mouse_pos 27.0344 3.1273
+\i (00:20:19) pick grid 27.6406 2.5530
+\t (00:20:19) last pick:  27.9400 2.5400
+\t (00:20:19) No DRC errors detected.
+\t (00:20:19) Pick first element.
+\i (00:20:19) generaledit 
+\i (00:20:28) pick grid 2.7217 9.7958
+\t (00:20:28) last pick:  2.5400 9.5250
+\i (00:20:30) add connect 
+\t (00:20:30) Pick first element.
+\t (00:20:30) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:20:30) last pick:  2.5400 10.1600
+\i (00:20:44) pick grid 7.3162 5.8713
+\t (00:20:44) last pick:  7.6200 5.7150
+\t (00:20:44) No DRC errors detected.
+\i (00:20:46) pick grid 17.4306 5.5841
+\t (00:20:46) last pick:  17.1450 5.7150
+\t (00:20:46) No DRC errors detected.
+\i (00:20:47) mouse_pos 22.4718 9.2214
+\i (00:20:48) pick grid 22.5994 9.2534
+\t (00:20:48) last pick:  22.8600 9.5250
+\t (00:20:48) No DRC errors detected.
+\t (00:20:48) Pick first element.
+\i (00:20:48) generaledit 
+\i (00:20:54) pick grid 12.2298 9.9234
+\t (00:20:54) last pick:  12.0650 10.1600
+\i (00:20:55) add connect 
+\t (00:20:55) Pick first element.
+\t (00:20:55) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:20:55) last pick:  12.7000 10.1600
+\i (00:21:00) pick grid 16.1862 6.8923
+\t (00:21:00) last pick:  15.8750 6.9850
+\t (00:21:00) No DRC errors detected.
+\i (00:21:03) pick grid 18.1325 7.0199
+\t (00:21:03) last pick:  18.4150 6.9850
+\t (00:21:03) No DRC errors detected.
+\i (00:21:07) pick grid 17.4944 6.9561
+\t (00:21:07) last pick:  17.7800 6.9850
+\t (00:21:07) No DRC errors detected.
+\i (00:21:13) pick grid 22.4080 11.7421
+\t (00:21:13) last pick:  22.2250 11.4300
+\t (00:21:13) No DRC errors detected.
+\i (00:21:14) mouse_pos 32.0756 10.9763
+\i (00:21:16) pick grid 32.7457 10.6572
+\t (00:21:16) last pick:  33.0200 10.7950
+\t (00:21:16) No DRC errors detected.
+\t (00:21:16) Pick first element.
+\i (00:21:16) generaledit 
+\i (00:21:32) add connect 
+\t (00:21:32) Pick first element.
+\t (00:21:32) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:21:32) last pick:  12.7000 10.1600
+\i (00:21:35) Esc 
+\i (00:21:36) done 
+\i (00:21:36) generaledit 
+\i (00:21:37) pick grid 15.1333 10.0829
+\t (00:21:37) last pick:  15.2400 10.1600
+\i (00:21:37) add connect 
+\t (00:21:37) Pick first element.
+\t (00:21:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:21:37) last pick:  15.2400 10.1600
+\i (00:21:40) pick grid 16.8562 8.3600
+\t (00:21:40) last pick:  17.1450 8.2550
+\t (00:21:40) No DRC errors detected.
+\i (00:21:44) pick grid 21.6741 11.7740
+\t (00:21:44) last pick:  21.5900 12.0650
+\t (00:21:44) No DRC errors detected.
+\i (00:21:47) pick grid 32.6819 11.9654
+\t (00:21:47) last pick:  32.3850 12.0650
+\t (00:21:47) No DRC errors detected.
+\i (00:21:49) pick grid 33.3519 11.9973
+\t (00:21:49) last pick:  33.6550 12.0650
+\t (00:21:49) No DRC errors detected.
+\i (00:21:49) mouse_pos 34.6282 10.7849
+\i (00:21:50) pick grid 35.2663 10.3382
+\t (00:21:50) last pick:  35.5600 10.1600
+\t (00:21:50) No DRC errors detected.
+\t (00:21:50) Pick first element.
+\i (00:21:50) generaledit 
+\i (00:21:58) pick grid 17.4306 10.0510
+\t (00:21:58) last pick:  17.1450 10.1600
+\i (00:21:59) add connect 
+\t (00:21:59) Pick first element.
+\t (00:21:59) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:21:59) last pick:  17.7800 10.1600
+\i (00:22:03) pick grid 21.2593 12.8269
+\t (00:22:03) last pick:  20.9550 12.7000
+\t (00:22:03) No DRC errors detected.
+\i (00:22:06) pick grid 35.2663 12.7950
+\t (00:22:06) last pick:  35.5600 12.7000
+\t (00:22:06) No DRC errors detected.
+\i (00:22:06) mouse_pos 37.5636 11.1039
+\i (00:22:08) pick grid 38.0102 10.4658
+\t (00:22:08) last pick:  38.1000 10.1600
+\t (00:22:08) No DRC errors detected.
+\t (00:22:08) Pick first element.
+\i (00:22:08) generaledit 
+\i (00:22:27) pick grid 2.6579 22.2712
+\t (00:22:27) last pick:  2.5400 22.2250
+\i (00:22:28) add connect 
+\t (00:22:28) Pick first element.
+\t (00:22:28) last pick:  2.5400 22.8600
+\i (00:22:36) done 
+\i (00:22:36) generaledit 
+\i (00:22:37) pick grid 5.4656 22.4945
+\t (00:22:37) last pick:  5.7150 22.2250
+\i (00:22:37) add connect 
+\t (00:22:37) Pick first element.
+\t (00:22:37) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:22:37) last pick:  5.0800 22.8600
+\i (00:22:43) pick grid 8.2734 19.3677
+\t (00:22:43) last pick:  8.2550 19.6850
+\t (00:22:43) No DRC errors detected.
+\i (00:22:46) pick grid 21.3232 19.7506
+\t (00:22:46) last pick:  21.5900 19.6850
+\t (00:22:46) No DRC errors detected.
+\i (00:22:46) mouse_pos 24.4500 22.4945
+\i (00:22:47) pick grid 25.0881 22.6222
+\t (00:22:47) last pick:  25.4000 22.8600
+\t (00:22:47) No DRC errors detected.
+\t (00:22:47) Pick first element.
+\i (00:22:47) generaledit 
+\i (00:22:52) pick grid 7.9862 22.5584
+\t (00:22:52) last pick:  8.2550 22.8600
+\i (00:22:52) add connect 
+\t (00:22:52) Pick first element.
+\t (00:22:52) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:22:52) last pick:  7.6200 22.8600
+\i (00:23:00) pick grid 9.8687 20.5802
+\t (00:23:00) last pick:  10.1600 20.3200
+\t (00:23:00) No DRC errors detected.
+\i (00:23:06) pick grid 21.8975 20.2611
+\t (00:23:06) last pick:  21.5900 20.3200
+\t (00:23:06) No DRC errors detected.
+\i (00:23:10) pick grid 20.5893 20.3249
+\t (00:23:10) last pick:  20.3200 20.3200
+\t (00:23:10) No DRC errors detected.
+\i (00:23:16) pick grid 24.2585 23.8346
+\t (00:23:16) last pick:  24.1300 24.1300
+\t (00:23:16) No DRC errors detected.
+\i (00:23:16) mouse_pos 27.7044 23.8984
+\i (00:23:20) pick grid 27.6406 23.0370
+\t (00:23:20) last pick:  27.9400 22.8600
+\t (00:23:20) No DRC errors detected.
+\t (00:23:20) Pick first element.
+\i (00:23:20) generaledit 
+\i (00:23:22) pick grid 10.1559 22.3669
+\t (00:23:22) last pick:  10.1600 22.2250
+\i (00:23:23) add connect 
+\t (00:23:23) Pick first element.
+\t (00:23:23) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:23:23) last pick:  10.1600 22.8600
+\i (00:23:25) pick grid 11.7512 21.1545
+\t (00:23:25) last pick:  12.0650 20.9550
+\t (00:23:25) No DRC errors detected.
+\i (00:23:33) pick grid 20.6531 20.9949
+\t (00:23:33) last pick:  20.9550 20.9550
+\t (00:23:33) No DRC errors detected.
+\i (00:23:36) pick grid 21.8975 24.5047
+\t (00:23:36) last pick:  21.5900 24.7650
+\t (00:23:36) No DRC errors detected.
+\i (00:23:38) mouse_pos 30.0974 23.7708
+\i (00:23:39) pick grid 30.4165 23.1646
+\t (00:23:39) last pick:  30.4800 22.8600
+\t (00:23:39) No DRC errors detected.
+\t (00:23:39) Pick first element.
+\i (00:23:39) generaledit 
+\i (00:23:43) drag_start grid 43.4982 20.1016
+\i (00:23:43) roam y -16
+\i (00:23:43) roam y -16
+\i (00:23:43) roam y -16
+\i (00:23:43) drag_stop 43.0196 26.9933
+\i (00:24:03) pick grid 10.7302 14.8051
+\t (00:24:03) last pick:  10.7950 14.6050
+\i (00:24:03) add connect 
+\t (00:24:03) Pick first element.
+\t (00:24:03) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:24:03) last pick:  10.1600 15.2400
+\i (00:24:06) pick grid 12.4212 11.7420
+\t (00:24:06) last pick:  12.7000 11.4300
+\t (00:24:06) No DRC errors detected.
+\i (00:24:11) pick grid 17.4625 11.6144
+\t (00:24:11) last pick:  17.7800 11.4300
+\t (00:24:11) No DRC errors detected.
+\i (00:24:13) pick grid 22.1208 16.8471
+\t (00:24:13) last pick:  22.2250 17.1450
+\t (00:24:13) No DRC errors detected.
+\i (00:24:14) mouse_pos 29.5550 16.2409
+\i (00:24:16) pick grid 30.1932 15.5389
+\t (00:24:16) last pick:  30.4800 15.2400
+\t (00:24:16) No DRC errors detected.
+\t (00:24:16) Pick first element.
+\i (00:24:16) generaledit 
+\i (00:24:20) add connect 
+\t (00:24:20) Pick first element.
+\t (00:24:20) last pick:  10.1600 15.2400
+\i (00:24:22) redraw 
+\i (00:24:22) done 
+\i (00:24:22) generaledit 
+\i (00:24:23) pick grid 12.5489 15.0603
+\t (00:24:23) last pick:  12.7000 15.2400
+\i (00:24:23) add connect 
+\t (00:24:23) Pick first element.
+\t (00:24:23) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:24:23) last pick:  12.7000 15.2400
+\i (00:24:27) pick grid 13.5699 12.3802
+\t (00:24:27) last pick:  13.3350 12.0650
+\t (00:24:27) No DRC errors detected.
+\i (00:24:28) pick grid 16.8562 11.9973
+\t (00:24:28) last pick:  17.1450 12.0650
+\t (00:24:28) No DRC errors detected.
+\i (00:24:31) pick grid 21.8337 17.4852
+\t (00:24:31) last pick:  21.5900 17.7800
+\t (00:24:31) No DRC errors detected.
+\i (00:24:32) mouse_pos 32.8414 16.1771
+\i (00:24:33) pick grid 32.9052 15.5389
+\t (00:24:33) last pick:  33.0200 15.2400
+\t (00:24:33) No DRC errors detected.
+\t (00:24:33) Pick first element.
+\i (00:24:33) generaledit 
+\i (00:24:45) pick grid 19.9831 14.5817
+\t (00:24:45) last pick:  19.6850 14.6050
+\i (00:24:47) delete 
+\i (00:24:47) generaledit 
+\i (00:24:49) pick grid 19.4407 14.2308
+\t (00:24:49) last pick:  19.6850 13.9700
+\i (00:24:50) delete 
+\i (00:24:50) generaledit 
+\i (00:24:51) pick grid tgl 18.2601 13.2097
+\t (00:24:51) last pick:  18.4150 13.3350
+\i (00:24:52) pick grid tgl 17.6539 12.2206
+\t (00:24:52) last pick:  17.7800 12.0650
+\i (00:24:53) delete 
+\i (00:24:53) generaledit 
+\i (00:24:55) pick grid tgl 17.0796 12.8588
+\t (00:24:55) last pick:  17.1450 12.7000
+\i (00:24:56) pick grid tgl 17.4306 13.7203
+\t (00:24:56) last pick:  17.1450 13.9700
+\i (00:24:56) pick grid tgl 18.5154 14.1031
+\t (00:24:56) last pick:  18.4150 13.9700
+\i (00:24:57) pick grid tgl 19.2492 15.7942
+\t (00:24:57) last pick:  19.0500 15.8750
+\i (00:24:57) pick grid tgl 19.5364 15.7942
+\t (00:24:57) last pick:  19.6850 15.8750
+\i (00:24:58) pick grid tgl 22.7270 17.3576
+\t (00:24:58) last pick:  22.8600 17.1450
+\i (00:24:58) pick grid tgl 23.7480 17.6128
+\t (00:24:58) last pick:  23.4950 17.7800
+\i (00:24:59) pick grid tgl 29.4912 16.4961
+\t (00:24:59) last pick:  29.2100 16.5100
+\i (00:25:00) pick grid tgl 31.2780 16.6237
+\t (00:25:00) last pick:  31.1150 16.5100
+\i (00:25:01) pick grid tgl 31.1503 17.2300
+\t (00:25:01) last pick:  31.1150 17.1450
+\i (00:25:01) pick grid tgl 29.6188 16.0813
+\t (00:25:01) last pick:  29.8450 15.8750
+\i (00:25:02) delete 
+\i (00:25:03) generaledit 
+\i (00:25:05) pick grid 10.1878 15.0284
+\t (00:25:05) last pick:  10.1600 15.2400
+\i (00:25:05) add connect 
+\t (00:25:06) Pick first element.
+\t (00:25:06) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:25:06) last pick:  10.1600 15.2400
+\i (00:25:06) mouse_pos 10.1878 14.9008
+\i (00:25:06) mouse_pos 10.3473 13.6245
+\i (00:25:06) mouse_pos 12.4531 12.2845
+\i (00:25:06) mouse_pos 14.0804 11.7420
+\i (00:25:08) mouse_pos 12.3574 11.4868
+\i (00:25:09) mouse_pos 13.0275 11.4868
+\i (00:25:11) done 
+\i (00:25:11) generaledit 
+\i (00:25:13) pick grid 17.5263 11.6463
+\t (00:25:13) last pick:  17.7800 11.4300
+\i (00:25:14) pick grid tgl 16.6648 11.5187
+\t (00:25:14) last pick:  16.5100 11.4300
+\i (00:25:14) pick grid tgl 16.2181 11.9016
+\t (00:25:14) last pick:  16.5100 12.0650
+\i (00:25:15) pick grid tgl 16.0267 12.2206
+\t (00:25:15) last pick:  15.8750 12.0650
+\i (00:25:16) pick grid tgl 16.9839 12.1887
+\t (00:25:16) last pick:  17.1450 12.0650
+\i (00:25:17) pick grid tgl 15.2290 12.1249
+\t (00:25:17) last pick:  15.2400 12.0650
+\i (00:25:18) pick grid tgl 12.7403 12.5716
+\t (00:25:18) last pick:  12.7000 12.7000
+\i (00:25:19) pick grid tgl 12.7403 13.2736
+\t (00:25:19) last pick:  12.7000 13.3350
+\i (00:25:20) pick grid tgl 10.1559 14.3584
+\t (00:25:20) last pick:  10.1600 14.6050
+\i (00:25:21) pick grid tgl 11.0812 12.8907
+\t (00:25:21) last pick:  10.7950 12.7000
+\i (00:25:22) pick grid tgl 18.5154 13.3693
+\t (00:25:22) last pick:  18.4150 13.3350
+\i (00:25:23) pick grid tgl 18.1006 14.0712
+\t (00:25:23) last pick:  18.4150 13.9700
+\i (00:25:23) pick grid tgl 18.9940 14.7094
+\t (00:25:23) last pick:  19.0500 14.6050
+\i (00:25:24) pick grid tgl 19.6321 14.4222
+\t (00:25:24) last pick:  19.6850 14.6050
+\i (00:25:26) delete 
+\i (00:25:26) generaledit 
+\i (00:25:30) pick grid 10.2516 14.6455
+\t (00:25:30) last pick:  10.1600 14.6050
+\i (00:25:30) add connect 
+\t (00:25:30) Pick first element.
+\t (00:25:30) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:25:30) last pick:  10.1600 15.2400
+\i (00:25:32) pick grid 10.1559 13.6245
+\t (00:25:32) last pick:  10.1600 13.3350
+\t (00:25:32) No DRC errors detected.
+\i (00:25:34) pick grid 12.3255 11.2635
+\t (00:25:34) last pick:  12.0650 11.4300
+\t (00:25:34) No DRC errors detected.
+\i (00:26:07) pick grid 21.2912 14.6774
+\t (00:26:07) last pick:  21.5900 14.6050
+\t (00:26:07) No DRC errors detected.
+\i (00:26:08) pick grid 21.4827 16.2090
+\t (00:26:08) last pick:  21.5900 16.5100
+\t (00:26:08) No DRC errors detected.
+\i (00:26:10) pick grid 30.1932 16.4642
+\t (00:26:10) last pick:  30.4800 16.5100
+\t (00:26:10) No DRC errors detected.
+\i (00:26:10) mouse_pos 30.4165 16.1132
+\i (00:26:11) pick grid 30.6398 15.5389
+\t (00:26:11) last pick:  30.4800 15.2400
+\t (00:26:11) No DRC errors detected.
+\t (00:26:11) Pick first element.
+\i (00:26:11) generaledit 
+\i (00:26:14) pick grid 12.8679 14.7094
+\t (00:26:14) last pick:  12.7000 14.6050
+\i (00:26:14) add connect 
+\t (00:26:14) Pick first element.
+\t (00:26:14) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:26:14) last pick:  12.7000 15.2400
+\i (00:26:16) pick grid 12.9956 12.3802
+\t (00:26:16) last pick:  12.7000 12.0650
+\t (00:26:16) No DRC errors detected.
+\i (00:26:18) pick grid 18.0687 12.1249
+\t (00:26:18) last pick:  17.7800 12.0650
+\t (00:26:18) No DRC errors detected.
+\i (00:26:20) pick grid 20.0150 14.3903
+\t (00:26:20) last pick:  20.3200 14.6050
+\t (00:26:20) No DRC errors detected.
+\i (00:26:21) pick grid 20.8765 14.9327
+\t (00:26:21) last pick:  20.9550 15.2400
+\t (00:26:21) No DRC errors detected.
+\i (00:26:22) pick grid 21.1955 16.8471
+\t (00:26:22) last pick:  20.9550 17.1450
+\t (00:26:22) No DRC errors detected.
+\i (00:26:24) pick grid 32.7138 17.3895
+\t (00:26:24) last pick:  33.0200 17.1450
+\t (00:26:24) No DRC errors detected.
+\i (00:26:24) mouse_pos 33.0966 16.1771
+\i (00:26:24) pick grid 33.0966 16.1771
+\t (00:26:24) last pick:  33.0200 15.8750
+\t (00:26:24) No DRC errors detected.
+\t (00:26:24) Pick first element.
+\i (00:26:24) generaledit 
+\i (00:26:27) pick grid 15.1014 14.7732
+\t (00:26:27) last pick:  15.2400 14.6050
+\i (00:26:28) add connect 
+\t (00:26:28) Pick first element.
+\t (00:26:28) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:26:28) last pick:  15.2400 15.2400
+\i (00:26:30) pick grid 15.0376 12.9864
+\t (00:26:30) last pick:  15.2400 12.7000
+\t (00:26:30) No DRC errors detected.
+\i (00:26:35) pick grid 17.8134 13.6245
+\t (00:26:35) last pick:  17.7800 13.3350
+\t (00:26:35) No DRC errors detected.
+\i (00:26:39) pick grid 20.0150 15.6985
+\t (00:26:39) last pick:  20.3200 15.8750
+\t (00:26:39) No DRC errors detected.
+\i (00:26:41) pick grid 20.4298 17.4852
+\t (00:26:41) last pick:  20.3200 17.7800
+\t (00:26:41) No DRC errors detected.
+\i (00:26:43) pick grid 35.2663 17.8043
+\t (00:26:43) last pick:  35.5600 17.7800
+\t (00:26:43) No DRC errors detected.
+\i (00:26:43) mouse_pos 35.6173 16.1771
+\i (00:26:44) pick grid 35.6492 15.5389
+\t (00:26:44) last pick:  35.5600 15.2400
+\t (00:26:44) No DRC errors detected.
+\t (00:26:44) Pick first element.
+\i (00:26:44) generaledit 
+\i (00:26:45) pick grid 18.5154 15.1879
+\t (00:26:45) last pick:  18.4150 15.2400
+\i (00:26:46) add connect 
+\t (00:26:46) Pick first element.
+\t (00:26:46) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:26:46) last pick:  17.7800 15.2400
+\i (00:26:49) pick grid 19.3769 18.1233
+\t (00:26:49) last pick:  19.6850 18.4150
+\t (00:26:49) No DRC errors detected.
+\i (00:26:52) pick grid 37.8188 18.4424
+\t (00:26:52) last pick:  38.1000 18.4150
+\t (00:26:52) No DRC errors detected.
+\i (00:26:53) mouse_pos 37.8188 16.1451
+\i (00:26:53) pick grid 37.8188 16.1451
+\t (00:26:53) last pick:  38.1000 15.8750
+\t (00:26:53) No DRC errors detected.
+\t (00:26:53) Pick first element.
+\i (00:26:53) generaledit 
+\i (00:26:58) zoom out 1 
+\i (00:26:58) setwindow pcb
+\i (00:26:58) zoom out 32.9690 11.9335
+\i (00:26:58) trapsize 3191
+\i (00:27:01) zoom in 1 
+\i (00:27:01) setwindow pcb
+\i (00:27:01) zoom in 42.8759 10.8487
+\i (00:27:01) trapsize 1595
+\i (00:27:12) pick grid 18.0527 22.4307
+\t (00:27:12) last pick:  17.7800 22.2250
+\i (00:27:13) add connect 
+\t (00:27:13) Pick first element.
+\t (00:27:13) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:27:13) last pick:  17.7800 22.8600
+\i (00:27:25) done 
+\i (00:27:25) generaledit 
+\i (00:27:25) prepopup 19.7757 22.1117
+\i (00:27:28) prepopup 48.4915 12.7631
+\i (00:27:29) prepopup 46.6409 12.9864
+\i (00:27:30) prepopup 45.7156 15.4751
+\i (00:27:30) prepopup 44.5351 15.4751
+\i (00:27:30) prepopup 38.3771 15.0284
+\i (00:27:34) pick grid 49.9592 9.1895
+\t (00:27:34) last pick:  50.1650 8.8900
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 44.3117 9.3810
+\i (00:27:34) trapsize 3191
+\i (00:27:34) zoom out 1 
+\i (00:27:34) setwindow pcb
+\i (00:27:34) zoom out 44.1203 9.4448
+\i (00:27:34) trapsize 6381
+\i (00:27:35) prepopup 29.3465 0.2601
+\i (00:27:38) pick grid 49.7667 4.3441
+\t (00:27:38) last pick:  49.5300 4.4450
+\i (00:27:38) zoom in 1 
+\i (00:27:38) setwindow pcb
+\i (00:27:38) zoom in 30.8780 -4.8449
+\i (00:27:38) trapsize 3191
+\i (00:27:39) drag_start grid 49.3210 7.2157
+\i (00:27:39) roam y -16
+\i (00:27:39) roam y -32
+\i (00:27:39) roam y -16
+\i (00:27:40) drag_stop 50.4058 26.5785
+\i (00:27:40) prepopup 47.7895 15.7941
+\i (00:27:41) drag_start grid 46.6409 16.9428
+\i (00:27:41) roam y -16
+\i (00:27:41) roam y -16
+\i (00:27:41) roam y -16
+\i (00:27:41) roam y -16
+\i (00:27:42) drag_stop 46.4494 30.1520
+\i (00:27:52) add connect 
+\t (00:27:53) Pick first element.
+\i (00:27:56) prepopup 19.7118 16.3046
+\i (00:27:57) pop swap 
+\t (00:27:57) Pick first element.
+\i (00:27:59) zoom in 1 
+\i (00:27:59) setwindow pcb
+\i (00:27:59) zoom in 20.2861 16.3684
+\i (00:27:59) trapsize 1595
+\i (00:28:02) pick grid 5.0987 11.0719
+\t (00:28:02) last pick:  5.0800 10.7950
+\t (00:28:02) last pick:  5.0800 10.7950
+\i (00:28:02) mouse_pos 5.0987 11.0719
+\i (00:28:02) mouse_pos 5.0987 11.1358
+\i (00:28:02) mouse_pos 5.4177 11.6782
+\i (00:28:03) mouse_pos 6.4387 13.0182
+\i (00:28:03) mouse_pos 6.5664 13.6564
+\i (00:28:05) done 
+\i (00:28:05) generaledit 
+\i (00:28:06) pick grid 4.9072 11.4548
+\t (00:28:06) last pick:  5.0800 11.4300
+\i (00:28:06) pick grid 5.0668 11.3910
+\t (00:28:06) last pick:  5.0800 11.4300
+\i (00:28:08) pick grid 5.1625 21.1863
+\t (00:28:08) last pick:  5.0800 20.9550
+\i (00:28:09) pick grid tgl 5.6730 20.2291
+\t (00:28:09) last pick:  5.7150 20.3200
+\i (00:28:09) pick grid tgl 6.2154 18.5061
+\t (00:28:09) last pick:  6.3500 18.4150
+\i (00:28:12) pick grid 7.8426 21.3139
+\t (00:28:12) last pick:  7.6200 21.5900
+\i (00:28:14) pick grid tgl 8.3212 20.2291
+\t (00:28:14) last pick:  8.2550 20.3200
+\i (00:28:15) pick grid tgl 9.0551 17.1342
+\t (00:28:15) last pick:  8.8900 17.1450
+\i (00:28:16) pick grid tgl 8.3212 12.7949
+\t (00:28:16) last pick:  8.2550 12.7000
+\i (00:28:17) pick grid tgl 7.6831 11.2315
+\t (00:28:17) last pick:  7.6200 11.4300
+\i (00:28:20) pick grid tgl 10.1718 21.8244
+\t (00:28:20) last pick:  10.1600 21.5900
+\i (00:28:21) pick grid tgl 10.6823 20.2610
+\t (00:28:21) last pick:  10.7950 20.3200
+\i (00:28:22) pick grid tgl 11.4481 17.9318
+\t (00:28:22) last pick:  11.4300 17.7800
+\i (00:28:22) pick grid tgl 10.8099 12.6673
+\t (00:28:22) last pick:  10.7950 12.7000
+\i (00:28:23) pick grid tgl 10.2037 11.1677
+\t (00:28:23) last pick:  10.1600 11.4300
+\i (00:28:24) pick grid tgl 12.7562 11.0719
+\t (00:28:24) last pick:  12.7000 10.7950
+\i (00:28:25) pick grid tgl 13.1072 12.6035
+\t (00:28:25) last pick:  13.3350 12.7000
+\i (00:28:25) pick grid tgl 13.9049 15.2198
+\t (00:28:25) last pick:  13.9700 15.2400
+\i (00:28:26) pick grid tgl 13.1391 20.5801
+\t (00:28:26) last pick:  13.3350 20.3200
+\i (00:28:27) pick grid tgl 12.6286 21.7287
+\t (00:28:27) last pick:  12.7000 21.5900
+\i (00:28:28) pick grid tgl 15.4045 21.8563
+\t (00:28:28) last pick:  15.2400 21.5900
+\i (00:28:29) pick grid tgl 15.9150 20.4844
+\t (00:28:29) last pick:  15.8750 20.3200
+\i (00:28:29) pick grid tgl 16.6169 18.6338
+\t (00:28:29) last pick:  16.5100 18.4150
+\i (00:28:30) pick grid tgl 15.6597 12.4758
+\t (00:28:30) last pick:  15.8750 12.7000
+\i (00:28:31) pick grid tgl 15.1811 11.4229
+\t (00:28:31) last pick:  15.2400 11.4300
+\i (00:28:34) pick grid tgl 17.8294 11.1358
+\t (00:28:34) last pick:  17.7800 11.4300
+\i (00:28:34) pick grid tgl 18.3399 12.4120
+\t (00:28:34) last pick:  18.4150 12.7000
+\i (00:28:36) pick grid tgl 18.4356 20.3248
+\t (00:28:36) last pick:  18.4150 20.3200
+\i (00:28:37) pick grid tgl 17.8294 21.9520
+\t (00:28:37) last pick:  17.7800 22.2250
+\i (00:28:39) delete 
+\i (00:28:39) generaledit 
+\i (00:28:43) pick grid 7.5236 22.4626
+\t (00:28:43) last pick:  7.6200 22.2250
+\i (00:28:44) add connect 
+\t (00:28:44) Pick first element.
+\t (00:28:44) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:28:44) last pick:  7.6200 22.8600
+\i (00:28:46) pick grid 7.3640 21.2182
+\t (00:28:46) last pick:  7.6200 20.9550
+\t (00:28:46) No DRC errors detected.
+\i (00:28:50) pick grid 8.7998 19.9738
+\t (00:28:50) last pick:  8.8900 19.6850
+\t (00:28:50) No DRC errors detected.
+\i (00:28:52) pick grid 8.8636 13.0501
+\t (00:28:52) last pick:  8.8900 13.3350
+\t (00:28:52) No DRC errors detected.
+\i (00:28:54) pick grid 7.6193 11.7739
+\t (00:28:54) last pick:  7.6200 12.0650
+\t (00:28:54) No DRC errors detected.
+\i (00:28:54) mouse_pos 7.5874 11.1038
+\i (00:28:55) pick grid 7.5874 10.4657
+\t (00:28:55) last pick:  7.6200 10.1600
+\t (00:28:55) No DRC errors detected.
+\t (00:28:55) Pick first element.
+\i (00:28:55) generaledit 
+\i (00:28:56) pick grid 10.3632 22.7497
+\t (00:28:56) last pick:  10.1600 22.8600
+\i (00:28:57) add connect 
+\t (00:28:57) Pick first element.
+\t (00:28:57) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:28:57) last pick:  10.1600 22.8600
+\i (00:28:59) pick grid 10.1399 21.2501
+\t (00:28:59) last pick:  10.1600 20.9550
+\t (00:28:59) No DRC errors detected.
+\i (00:29:01) pick grid 11.1928 19.9738
+\t (00:29:01) last pick:  11.4300 19.6850
+\t (00:29:01) No DRC errors detected.
+\i (00:29:03) pick grid 11.3842 13.6245
+\t (00:29:03) last pick:  11.4300 13.3350
+\t (00:29:03) No DRC errors detected.
+\i (00:29:04) pick grid 10.4590 12.2206
+\t (00:29:04) last pick:  10.1600 12.0650
+\t (00:29:04) No DRC errors detected.
+\i (00:29:04) mouse_pos 10.1080 11.1038
+\i (00:29:05) pick grid 10.1080 10.4657
+\t (00:29:05) last pick:  10.1600 10.1600
+\t (00:29:05) No DRC errors detected.
+\t (00:29:05) Pick first element.
+\i (00:29:05) generaledit 
+\i (00:29:24) pick grid 12.8200 22.8454
+\t (00:29:24) last pick:  12.7000 22.8600
+\i (00:29:25) add connect 
+\t (00:29:25) Pick first element.
+\t (00:29:25) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:29:25) last pick:  12.7000 22.8600
+\i (00:29:26) pick grid 12.8200 22.8454
+\t (00:29:27) last pick:  12.7000 22.8600
+\w (00:29:27) WARNING(SPMHAC-22): The pick was ignored.  It is the same as the previous pick.
+\i (00:29:28) pick grid 12.7243 21.2501
+\t (00:29:28) last pick:  12.7000 20.9550
+\t (00:29:28) No DRC errors detected.
+\i (00:29:31) pick grid 13.8729 19.9419
+\t (00:29:31) last pick:  13.9700 19.6850
+\t (00:29:31) No DRC errors detected.
+\i (00:29:32) pick grid 14.1282 13.6245
+\t (00:29:32) last pick:  13.9700 13.3350
+\t (00:29:32) No DRC errors detected.
+\i (00:29:33) pick grid 13.0115 11.9972
+\t (00:29:33) last pick:  12.7000 12.0650
+\t (00:29:33) No DRC errors detected.
+\i (00:29:34) mouse_pos 12.6605 11.1038
+\i (00:29:34) pick grid 12.6605 10.4338
+\t (00:29:34) last pick:  12.7000 10.1600
+\t (00:29:34) No DRC errors detected.
+\t (00:29:34) Pick first element.
+\i (00:29:34) generaledit 
+\i (00:29:36) pick grid 15.5321 22.6859
+\t (00:29:36) last pick:  15.2400 22.8600
+\i (00:29:36) add connect 
+\t (00:29:36) Pick first element.
+\t (00:29:36) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:29:36) last pick:  15.2400 22.8600
+\i (00:29:38) pick grid 15.0854 21.2501
+\t (00:29:38) last pick:  15.2400 20.9550
+\t (00:29:38) No DRC errors detected.
+\i (00:29:39) pick grid 16.3297 19.9738
+\t (00:29:39) last pick:  16.5100 19.6850
+\t (00:29:39) No DRC errors detected.
+\i (00:29:40) pick grid 16.2978 13.6245
+\t (00:29:40) last pick:  16.5100 13.3350
+\t (00:29:40) No DRC errors detected.
+\i (00:29:41) pick grid 15.5321 11.9653
+\t (00:29:41) last pick:  15.2400 12.0650
+\t (00:29:41) No DRC errors detected.
+\i (00:29:42) mouse_pos 15.1811 11.1038
+\i (00:29:42) pick grid 15.2130 10.4338
+\t (00:29:42) last pick:  15.2400 10.1600
+\t (00:29:42) No DRC errors detected.
+\t (00:29:42) Pick first element.
+\i (00:29:42) generaledit 
+\i (00:29:43) pick grid 17.9889 22.9092
+\t (00:29:43) last pick:  17.7800 22.8600
+\i (00:29:43) add connect 
+\t (00:29:43) Pick first element.
+\t (00:29:43) Target Symbol Pin is defined from TOP to BOTTOM.
+\t (00:29:43) last pick:  17.7800 22.8600
+\i (00:29:45) pick grid 17.9570 21.2501
+\t (00:29:45) last pick:  17.7800 20.9550
+\t (00:29:45) No DRC errors detected.
+\i (00:29:47) pick grid 18.7865 19.9738
+\t (00:29:47) last pick:  19.0500 19.6850
+\t (00:29:47) No DRC errors detected.
+\i (00:29:48) pick grid 18.7865 13.5926
+\t (00:29:48) last pick:  19.0500 13.3350
+\t (00:29:48) No DRC errors detected.
+\i (00:29:49) pick grid 18.0846 12.0610
+\t (00:29:49) last pick:  17.7800 12.0650
+\t (00:29:49) No DRC errors detected.
+\i (00:29:50) mouse_pos 17.8294 11.1038
+\i (00:29:50) pick grid 17.8294 10.4657
+\t (00:29:50) last pick:  17.7800 10.1600
+\t (00:29:50) No DRC errors detected.
+\t (00:29:50) Pick first element.
+\i (00:29:50) generaledit 
+\i (00:29:54) zoom out 1 
+\i (00:29:54) setwindow pcb
+\i (00:29:54) zoom out 40.9296 7.8813
+\i (00:29:54) trapsize 3191
+\i (00:29:58) zoom in 1 
+\i (00:29:58) setwindow pcb
+\i (00:29:58) zoom in 37.7390 5.8393
+\i (00:29:58) trapsize 1595
+\i (00:30:00) zoom out 1 
+\i (00:30:00) setwindow pcb
+\i (00:30:00) zoom out 39.6534 6.2222
+\i (00:30:00) trapsize 3191
+\i (00:30:01) zoom in 1 
+\i (00:30:01) setwindow pcb
+\i (00:30:01) zoom in 42.2698 6.9241
+\i (00:30:01) trapsize 1595
+\i (00:31:30) zoom out 1 
+\i (00:31:30) setwindow pcb
+\i (00:31:30) zoom out 39.6534 6.8603
+\i (00:31:30) trapsize 3191
+\i (00:31:31) zoom in 1 
+\i (00:31:31) setwindow pcb
+\i (00:31:31) zoom in 41.5041 5.3926
+\i (00:31:31) trapsize 1595
+\i (00:31:33) zoom out 1 
+\i (00:31:33) setwindow pcb
+\i (00:31:33) zoom out 22.8069 1.8191
+\i (00:31:33) trapsize 3191
+\i (00:31:35) zoom in 1 
+\i (00:31:35) setwindow pcb
+\i (00:31:35) zoom in 23.7003 2.2021
+\i (00:31:35) trapsize 1595
+\i (00:31:37) drag_start grid 11.0973 0.7025
+\i (00:31:37) slide 
+\t (00:31:37) Waiting for the destination pick.
+\i (00:31:37) drag_stop grid 11.0973 1.2449
+\t (00:31:37) No DRC errors detected.
+\i (00:31:37) generaledit 
+\i (00:31:38) pick grid 11.0973 1.2449
+\t (00:31:38) last pick:  10.7950 1.2700
+\i (00:31:39) drag_start grid 11.8630 0.1601
+\i (00:31:40) slide 
+\t (00:31:40) Waiting for the destination pick.
+\i (00:31:40) drag_stop grid 11.8311 0.7025
+\t (00:31:40) No DRC errors detected.
+\i (00:31:40) generaledit 
+\i (00:31:41) zoom out 1 
+\i (00:31:41) setwindow pcb
+\i (00:31:41) zoom out 26.0295 -0.4142
+\i (00:31:41) trapsize 3191
+\i (00:31:53) save_as 
+\i (00:32:41) fillin "my_demoa2.brd"
+\i (00:32:42) generaledit 
+\i (00:32:48) zoom in 1 
+\i (00:32:48) setwindow pcb
+\i (00:32:48) zoom in 34.8995 2.3935
+\i (00:32:48) trapsize 1595
+\i (00:33:17) zoom out 1 
+\i (00:33:17) setwindow pcb
+\i (00:33:17) zoom out 35.9843 8.4558
+\i (00:33:17) trapsize 3191
+\i (01:44:31) open 
+\i (01:44:39) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob\demob2.brd"
+\i (01:44:39) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demob"
+\t (01:44:39) Opening existing design...
+\i (01:44:39) trapsize 235
+\t (01:44:39)     Journal end - Wed Jul 17 14:02:52 2019

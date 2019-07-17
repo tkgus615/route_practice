@@ -1,0 +1,23 @@
+\t (00:00:14) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:14)     Journal start - Wed Jul 17 14:39:47 2019
+\t (00:00:14)         Host=USER-PC User=user Pid=2720 CPUs=4
+\t (00:00:14) CmdLine= allegro.exe -p .
+\t (00:00:14) 
+\d (00:00:14) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/route_practice/my_demoa2.brd
+\i (00:00:14) generaledit 
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 18.4561 -2.0126
+\i (00:00:15) trapsize 3144
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 11.6030 6.3494
+\i (00:00:18) trapsize 6287
+\i (00:00:20) open 
+\i (00:00:22) fillin "my_demob2.brd"
+\t (00:00:22) Opening existing design...
+\i (00:00:22) trapsize 240
+\d (00:00:22) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/route_practice/my_demob2.brd
+\i (00:00:22) generaledit 
+\i (00:00:32) exit 
+\t (00:00:32)     Journal end - Wed Jul 17 14:40:05 2019

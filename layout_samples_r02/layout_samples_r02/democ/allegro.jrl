@@ -1,0 +1,13 @@
+\t (00:00:55) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:55)     Journal start - Wed Jul 17 10:43:20 2019
+\t (00:00:55)         Host=USER-PC User=user Pid=5756 CPUs=4
+\t (00:00:55) CmdLine= allegro.exe -p .
+\t (00:00:55) 
+\d (00:00:55) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/democ/democ2.brd
+\i (00:00:55) generaledit 
+\i (00:00:57) open 
+\i (00:01:03) fillin "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demoa\demoa2.brd"
+\i (00:01:03) cd "C:\Users\user\Desktop\work\samples\layout_samples_r02\layout_samples_r02\demoa"
+\t (00:01:03) Opening existing design...
+\i (00:01:03) trapsize 351
+\t (00:01:04)     Journal end - Wed Jul 17 10:43:28 2019

@@ -1,0 +1,63 @@
+\t (00:00:25) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:25)     Journal start - Thu Jul 18 09:42:09 2019
+\t (00:00:25)         Host=USER-PC User=user Pid=4164 CPUs=4
+\t (00:00:25) CmdLine= allegro.exe -p .
+\t (00:00:25) 
+\d (00:00:25) Design opened: C:/Users/user/Desktop/work/samples/layout_samples_r02/layout_samples_r02/democ/my_democ2.brd
+\i (00:00:25) generaledit 
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 4231.4 2932.4
+\i (00:00:55) trapsize 36
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 4212.2 2929.6
+\i (00:00:56) trapsize 71
+\i (00:01:00) pick grid 4209.3 2643.0
+\t (00:01:00) last pick:  4200.0 2650.0
+\i (00:01:01) add connect 
+\t (00:01:01) Pick first element.
+\t (00:01:01) Target Symbol Pin is defined on TOP.
+\t (00:01:01) last pick:  4200.0 2650.0
+\i (00:01:03) mouse_pos 4195.0 3137.8
+\i (00:01:04) pick grid 4195.0 3163.5
+\t (00:01:04) last pick:  4200.0 3175.0
+\t (00:01:04) No DRC errors detected.
+\t (00:01:04) Pick first element.
+\i (00:01:04) generaledit 
+\i (00:01:07) pick grid 4297.7 3059.4
+\t (00:01:07) last pick:  4300.0 3050.0
+\i (00:01:12) pick grid 4053.8 2661.5
+\t (00:01:12) last pick:  4050.0 2650.0
+\i (00:01:13) add connect 
+\t (00:01:13) Pick first element.
+\t (00:01:13) Target Symbol Pin is defined on TOP.
+\t (00:01:13) last pick:  4050.0 2650.0
+\i (00:01:15) mouse_pos 4046.7 2637.3
+\i (00:01:16) mouse_pos 4039.6 2611.6
+\i (00:01:16) mouse_pos 4062.4 2640.1
+\i (00:01:22) pick grid 4062.4 2744.2
+\t (00:01:22) last pick:  4050.0 2750.0
+\t (00:01:22) No DRC errors detected.
+\t (00:01:22) last pick:  4050.0 2735.0
+\i (00:01:22) pick grid dbl 4056.7 2744.2
+\t (00:01:22) last pick:  4050.0 2750.0
+\t (00:01:22) VIA used for drill.
+\t (00:01:22) No DRC errors detected.
+\i (00:01:26) pick grid 4028.2 2939.6
+\t (00:01:26) last pick:  4025.0 2950.0
+\t (00:01:26) No DRC errors detected.
+\i (00:01:26) pick grid dbl 4028.2 2962.4
+\t (00:01:26) last pick:  4025.0 2950.0
+\t (00:01:26) VIA used for drill.
+\t (00:01:26) No DRC errors detected.
+\i (00:01:27) mouse_pos 4045.3 3137.8
+\i (00:01:28) pick grid 4058.1 3187.7
+\t (00:01:28) last pick:  4050.0 3200.0
+\t (00:01:28) No DRC errors detected.
+\t (00:01:28) Pick first element.
+\i (00:01:28) generaledit 
+\i (00:02:38) exit 
+\e (00:02:38) Do you want to save the changes you made to my_democ2.brd?
+\i (00:02:39) fillin yes 
+\t (00:02:41)     Journal end - Thu Jul 18 09:44:25 2019
